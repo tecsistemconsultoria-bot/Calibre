@@ -1,0 +1,4086 @@
+[
+  {
+    "seq": 1,
+    "descricao": "165.250, SENDO: FRASCO ERLENMEYER, VIDRO DE LABORATORIO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILACAO 3,3 *10^-6 POR KEVIN, UTILIZADO EM ANALISES LABORATORIAIS.",
+    "denominacao": "CODIGO 165 250   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  FRASCO ERLENMEYER COM JUNTA 24 40  GRADUAD",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "165.250"
+    ]
+  },
+  {
+    "seq": 2,
+    "descricao": "167.002, SENDO: PEROLA DE VIDRO, COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO 167 002   ARTIGO DE VIDRO PARA LABORATORIO SENDO   PEROLA DE VIDRO DIAMENTRO 2MM  MARCA  UNIG",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "167.002"
+    ]
+  },
+  {
+    "seq": 3,
+    "descricao": "170.065, SENDO: FUNIL ANALITICO, DE VIDRO, COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO 170 065   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  FUNIL ANALITICO LISO HASTE  CURTA  DIAMETR",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "170.065"
+    ]
+  },
+  {
+    "seq": 4,
+    "descricao": "170.075, SENDO: FUNIL ANALITICO, DE VIDRO, COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO 170 075   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  FUNIL ANALITICO LISO HASTE  CURTA  DIAMETR",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "170.075"
+    ]
+  },
+  {
+    "seq": 5,
+    "descricao": "170.150, SENDO: FUNIL ANALITICO, DE VIDRO, COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO 170 150   ARTIGO DE VIDRO PARA LABORATORIO SENDO  FUNIL ANALITICO LISO HASTE  CURTA  DIAMETRO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "170.150"
+    ]
+  },
+  {
+    "seq": 6,
+    "descricao": "181.005, SENDO: PIPETA SOROLOGICA, DE VIDRO GRADUADO, COEFICIENTE DE DILATACAO 7,8 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO 181 005   DE OUTRO VIDRO COM UM COEFICIENTE DE DILATACAO LINEAR NAO SUPERIOR A 5X10 6 POR KEL",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70179000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "181.005"
+    ]
+  },
+  {
+    "seq": 7,
+    "descricao": "185.025, SENDO: PROVETA, DE VIDRO GRADUADO, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO 185 025   DE OUTRO VIDRO COM UM COEFICIENTE DE DILATACAO LINEAR NAO SUPERIOR A 5X10 6 POR KEL",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "185.025"
+    ]
+  },
+  {
+    "seq": 8,
+    "descricao": "186.010, SENDO: PROVETA, DE VIDRO GRADUADO, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO 186 010   ARTIGO DE VIDRO PARA LABORATORIO SENDO  PROVETA GRADUADA BASE SEXTAVADA DE VIDRO  G",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "186.010"
+    ]
+  },
+  {
+    "seq": 9,
+    "descricao": "190.100, SENDO: COPO BEAKER, ARTIGO DE VIDRO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KEVIN, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "CODIGO 190 100   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  COPO BECKER FB GRIFFIN  GRADUADO CAPACIDAD",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "190.100"
+    ]
+  },
+  {
+    "seq": 10,
+    "descricao": "190.150, SENDO: COPO BEAKER, ARTIGO DE VIDRO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KEVIN, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "CODIGO 190 150   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  COPO FB GRIFFIN  GRADUADO CAPACIDADE 150ML",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "190.150"
+    ]
+  },
+  {
+    "seq": 11,
+    "descricao": "190.400, SENDO: COPO BEAKER, ARTIGO DE VIDRO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KEVIN, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "CODIGO 190 400   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  COPO BECKER FB GRIFFIN  GRADUADO CAPACIDAD",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "190.400"
+    ]
+  },
+  {
+    "seq": 12,
+    "descricao": "190.500, SENDO: COPO BEAKER, ARTIGO DE VIDRO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KEVIN, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "CODIGO 190 500   ARTIGO DE VIDRO PARA LABORATORIO SENDO  COPO BECKER FB GRIFFIN  GRADUADO CAPACIDADE",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "190.500"
+    ]
+  },
+  {
+    "seq": 13,
+    "descricao": "190.600, SENDO: COPO BEAKER, ARTIGO DE VIDRO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KEVIN, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "CODIGO 190 600   ARTIGO DE VIDRO PARA LABORATORIO SENDO  COPO BECKER FB GRIFFIN  GRADUADO CAPACIDADE",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "190.600"
+    ]
+  },
+  {
+    "seq": 14,
+    "descricao": "190.910, SENDO: COPO BEAKER, ARTIGO DE VIDRO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KEVIN, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "CODIGO 190 910   DE OUTRO VIDRO COM UM COEFICIENTE DE DILATACAO LINEAR NAO SUPERIOR A 5X10 6 POR KEL",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "190.910"
+    ]
+  },
+  {
+    "seq": 15,
+    "descricao": "191.600, SENDO: COPO BEAKER, ARTIGO DE VIDRO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KEVIN, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "CODIGO 191 600   DE OUTRO VIDRO COM UM COEFICIENTE DE DILATACAO LINEAR NAO SUPERIOR A 5X10 6 POR KEL",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "191.600"
+    ]
+  },
+  {
+    "seq": 16,
+    "descricao": "199.001, SENDO:  CUBA PARA PLACAS , DE OUTROS VIDROS, MARCA UNIGLAS, COM COEFICIENTE DE DILATACAO 4,9*10^-6 POR KEVIN, UTILIZADO EM ANALISES LABORATORIAIS.",
+    "denominacao": "CODIGO 199 001  ARTIGO DE VIDRO PARA LABORATORIO  SENDO  CUBA DE VIDRO PARA PLACAS DIMENSOES DE 20X2",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "199.001"
+    ]
+  },
+  {
+    "seq": 17,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "122-5532"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "122-5532"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      }
+    ],
+    "codigosInterno": [
+      "122-5532"
+    ]
+  },
+  {
+    "seq": 18,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "122-5562UI"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "122-5562UI"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      }
+    ],
+    "codigosInterno": [
+      "122-5562UI"
+    ]
+  },
+  {
+    "seq": 19,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "122-5732"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "122-5732"
+      }
+    ],
+    "codigosInterno": [
+      "122-5732"
+    ]
+  },
+  {
+    "seq": 20,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "122-7033"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "122-7033"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "122-7033"
+    ]
+  },
+  {
+    "seq": 21,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8957",
+        "valor": "122-7062"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "122-7062"
+      }
+    ],
+    "codigosInterno": [
+      "122-7062"
+    ]
+  },
+  {
+    "seq": 22,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "122-7062UI"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "122-7062UI"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "122-7062UI"
+    ]
+  },
+  {
+    "seq": 23,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "122-7063"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "122-7063"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "122-7063"
+    ]
+  },
+  {
+    "seq": 24,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "122-7362"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "122-7362"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      }
+    ],
+    "codigosInterno": [
+      "122-7362"
+    ]
+  },
+  {
+    "seq": 25,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_9241",
+        "valor": "123-0712"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "123-0712"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      }
+    ],
+    "codigosInterno": [
+      "123-0712"
+    ]
+  },
+  {
+    "seq": 26,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "123-0733"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "123-0733"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "123-0733"
+    ]
+  },
+  {
+    "seq": 27,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "123-1027"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "123-1027"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      }
+    ],
+    "codigosInterno": [
+      "123-1027"
+    ]
+  },
+  {
+    "seq": 28,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "123-1032"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "123-1032"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      }
+    ],
+    "codigosInterno": [
+      "123-1032"
+    ]
+  },
+  {
+    "seq": 29,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "123-1033"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "123-1033"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "123-1033"
+    ]
+  },
+  {
+    "seq": 30,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "123-1034"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "123-1034"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      }
+    ],
+    "codigosInterno": [
+      "123-1034"
+    ]
+  },
+  {
+    "seq": 31,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8957",
+        "valor": "123-1062"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "123-1062"
+      }
+    ],
+    "codigosInterno": [
+      "123-1062"
+    ]
+  },
+  {
+    "seq": 32,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "123-1064"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "123-1064"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "123-1064"
+    ]
+  },
+  {
+    "seq": 33,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "123-106E"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "123-106E"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      }
+    ],
+    "codigosInterno": [
+      "123-106E"
+    ]
+  },
+  {
+    "seq": 34,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "123-1334"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "123-1334"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      }
+    ],
+    "codigosInterno": [
+      "123-1334"
+    ]
+  },
+  {
+    "seq": 35,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "123-1334UI"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "123-1334UI"
+      }
+    ],
+    "codigosInterno": [
+      "123-1334UI"
+    ]
+  },
+  {
+    "seq": 36,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "123-1364"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "123-1364"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      }
+    ],
+    "codigosInterno": [
+      "123-1364"
+    ]
+  },
+  {
+    "seq": 37,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "123-1733"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "123-1733"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "123-1733"
+    ]
+  },
+  {
+    "seq": 38,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "123-3234"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "123-3234"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "123-3234"
+    ]
+  },
+  {
+    "seq": 39,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "123-5013"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "123-5013"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      }
+    ],
+    "codigosInterno": [
+      "123-5013"
+    ]
+  },
+  {
+    "seq": 40,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "123-5063"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "123-5063"
+      }
+    ],
+    "codigosInterno": [
+      "123-5063"
+    ]
+  },
+  {
+    "seq": 41,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "123-5512"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "123-5512"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      }
+    ],
+    "codigosInterno": [
+      "123-5512"
+    ]
+  },
+  {
+    "seq": 42,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "123-5533"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "123-5533"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      }
+    ],
+    "codigosInterno": [
+      "123-5533"
+    ]
+  },
+  {
+    "seq": 43,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "123-5711"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "123-5711"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      }
+    ],
+    "codigosInterno": [
+      "123-5711"
+    ]
+  },
+  {
+    "seq": 44,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "123-5731"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "123-5731"
+      }
+    ],
+    "codigosInterno": [
+      "123-5731"
+    ]
+  },
+  {
+    "seq": 45,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "123-7032"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "123-7032"
+      }
+    ],
+    "codigosInterno": [
+      "123-7032"
+    ]
+  },
+  {
+    "seq": 46,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_9241",
+        "valor": "123-7032UI"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "123-7032UI"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "123-7032UI"
+    ]
+  },
+  {
+    "seq": 47,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "123-7033"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "123-7033"
+      }
+    ],
+    "codigosInterno": [
+      "123-7033"
+    ]
+  },
+  {
+    "seq": 48,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "123-7133"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "123-7133"
+      }
+    ],
+    "codigosInterno": [
+      "123-7133"
+    ]
+  },
+  {
+    "seq": 49,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8957",
+        "valor": "123-7364"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "123-7364"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      }
+    ],
+    "codigosInterno": [
+      "123-7364"
+    ]
+  },
+  {
+    "seq": 50,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "125-0334UI"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "125-0334UI"
+      }
+    ],
+    "codigosInterno": [
+      "125-0334UI"
+    ]
+  },
+  {
+    "seq": 51,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "125-1364"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "125-1364"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      }
+    ],
+    "codigosInterno": [
+      "125-1364"
+    ]
+  },
+  {
+    "seq": 52,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "125-1374"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "125-1374"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      }
+    ],
+    "codigosInterno": [
+      "125-1374"
+    ]
+  },
+  {
+    "seq": 53,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "125-1932"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "125-1932"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      }
+    ],
+    "codigosInterno": [
+      "125-1932"
+    ]
+  },
+  {
+    "seq": 54,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "125-2212"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "125-2212"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "125-2212"
+    ]
+  },
+  {
+    "seq": 55,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "125-7012"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "125-7012"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      }
+    ],
+    "codigosInterno": [
+      "125-7012"
+    ]
+  },
+  {
+    "seq": 56,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_9241",
+        "valor": "125-7032"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "125-7032"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      }
+    ],
+    "codigosInterno": [
+      "125-7032"
+    ]
+  },
+  {
+    "seq": 57,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "127-7022"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "127-7022"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      }
+    ],
+    "codigosInterno": [
+      "127-7022"
+    ]
+  },
+  {
+    "seq": 58,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "128-1056"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "128-1056"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      }
+    ],
+    "codigosInterno": [
+      "128-1056"
+    ]
+  },
+  {
+    "seq": 59,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "145-1001"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "145-1001"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "145-1001"
+    ]
+  },
+  {
+    "seq": 60,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "145-1009"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "145-1009"
+      }
+    ],
+    "codigosInterno": [
+      "145-1009"
+    ]
+  },
+  {
+    "seq": 61,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "145-1334"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "145-1334"
+      }
+    ],
+    "codigosInterno": [
+      "145-1334"
+    ]
+  },
+  {
+    "seq": 62,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "160-1010-1"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "160-1010-1"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "160-1010-1"
+    ]
+  },
+  {
+    "seq": 63,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "160-1010-10"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "160-1010-10"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "160-1010-10"
+    ]
+  },
+  {
+    "seq": 64,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "160-2255-30"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "160-2255-30"
+      }
+    ],
+    "codigosInterno": [
+      "160-2255-30"
+    ]
+  },
+  {
+    "seq": 65,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8957",
+        "valor": "160-2535-5"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "160-2535-5"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      }
+    ],
+    "codigosInterno": [
+      "160-2535-5"
+    ]
+  },
+  {
+    "seq": 66,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "160-2615-10"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "160-2615-10"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      }
+    ],
+    "codigosInterno": [
+      "160-2615-10"
+    ]
+  },
+  {
+    "seq": 67,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "160-2625-10"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "160-2625-10"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "160-2625-10"
+    ]
+  },
+  {
+    "seq": 68,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "160-4535-5"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "160-4535-5"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "160-4535-5"
+    ]
+  },
+  {
+    "seq": 69,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "19091F-105"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19091F-105"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "19091F-105"
+    ]
+  },
+  {
+    "seq": 70,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8957",
+        "valor": "19091F-115"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "19091F-115"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      }
+    ],
+    "codigosInterno": [
+      "19091F-115"
+    ]
+  },
+  {
+    "seq": 71,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19091F-413"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "19091F-413"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      }
+    ],
+    "codigosInterno": [
+      "19091F-413"
+    ]
+  },
+  {
+    "seq": 72,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19091J-413"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "19091J-413"
+      }
+    ],
+    "codigosInterno": [
+      "19091J-413"
+    ]
+  },
+  {
+    "seq": 73,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "19091J-433"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19091J-433"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "19091J-433"
+    ]
+  },
+  {
+    "seq": 74,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_9241",
+        "valor": "19091N-111I"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19091N-111I"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      }
+    ],
+    "codigosInterno": [
+      "19091N-111I"
+    ]
+  },
+  {
+    "seq": 75,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19091N-133I"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "19091N-133I"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      }
+    ],
+    "codigosInterno": [
+      "19091N-133I"
+    ]
+  },
+  {
+    "seq": 76,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "19091N-213I"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19091N-213I"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "19091N-213I"
+    ]
+  },
+  {
+    "seq": 77,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "19091N-213IE"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19091N-213IE"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "19091N-213IE"
+    ]
+  },
+  {
+    "seq": 78,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19091P-QO4PT"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "19091P-QO4PT"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      }
+    ],
+    "codigosInterno": [
+      "19091P-QO4PT"
+    ]
+  },
+  {
+    "seq": 79,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19091P-S12"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "19091P-S12"
+      }
+    ],
+    "codigosInterno": [
+      "19091P-S12"
+    ]
+  },
+  {
+    "seq": 80,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "19091P-S15E"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19091P-S15E"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      }
+    ],
+    "codigosInterno": [
+      "19091P-S15E"
+    ]
+  },
+  {
+    "seq": 81,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_9241",
+        "valor": "19091R-303"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19091R-303"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "19091R-303"
+    ]
+  },
+  {
+    "seq": 82,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "19091S-001"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19091S-001"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      }
+    ],
+    "codigosInterno": [
+      "19091S-001"
+    ]
+  },
+  {
+    "seq": 83,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19091S-333"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "19091S-333"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      }
+    ],
+    "codigosInterno": [
+      "19091S-333"
+    ]
+  },
+  {
+    "seq": 84,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "19091S-413"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19091S-413"
+      }
+    ],
+    "codigosInterno": [
+      "19091S-413"
+    ]
+  },
+  {
+    "seq": 85,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_9241",
+        "valor": "19091S-431UI"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19091S-431UI"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "19091S-431UI"
+    ]
+  },
+  {
+    "seq": 86,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_9241",
+        "valor": "19091S-433"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19091S-433"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      }
+    ],
+    "codigosInterno": [
+      "19091S-433"
+    ]
+  },
+  {
+    "seq": 87,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "19091S-577UI"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19091S-577UI"
+      }
+    ],
+    "codigosInterno": [
+      "19091S-577UI"
+    ]
+  },
+  {
+    "seq": 88,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "19091S-733E"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19091S-733E"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      }
+    ],
+    "codigosInterno": [
+      "19091S-733E"
+    ]
+  },
+  {
+    "seq": 89,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "19091W-012"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19091W-012"
+      }
+    ],
+    "codigosInterno": [
+      "19091W-012"
+    ]
+  },
+  {
+    "seq": 90,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19091Z-002"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "19091Z-002"
+      }
+    ],
+    "codigosInterno": [
+      "19091Z-002"
+    ]
+  },
+  {
+    "seq": 91,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "19091Z-416"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19091Z-416"
+      }
+    ],
+    "codigosInterno": [
+      "19091Z-416"
+    ]
+  },
+  {
+    "seq": 92,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19095P-S25"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "19095P-S25"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "19095P-S25"
+    ]
+  },
+  {
+    "seq": 93,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "19095Z-121"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19095Z-121"
+      }
+    ],
+    "codigosInterno": [
+      "19095Z-121"
+    ]
+  },
+  {
+    "seq": 94,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19095Z-123"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "19095Z-123"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      }
+    ],
+    "codigosInterno": [
+      "19095Z-123"
+    ]
+  },
+  {
+    "seq": 95,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "695770-901"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "1"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "695770-901"
+      }
+    ],
+    "codigosInterno": [
+      "695770-901"
+    ]
+  },
+  {
+    "seq": 96,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "695775-901"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "695775-901"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "1"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "695775-901"
+    ]
+  },
+  {
+    "seq": 97,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8957",
+        "valor": "695775-902"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "1"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "695775-902"
+      }
+    ],
+    "codigosInterno": [
+      "695775-902"
+    ]
+  },
+  {
+    "seq": 98,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_9241",
+        "valor": "695775-912"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "695775-912"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "1"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "695775-912"
+    ]
+  },
+  {
+    "seq": 99,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10268",
+        "valor": "1"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "695970-902"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "695970-902"
+      }
+    ],
+    "codigosInterno": [
+      "695970-902"
+    ]
+  },
+  {
+    "seq": 100,
+    "descricao": "COLUNA CROMATOGRAFICA, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADA PARA SEPARACAO DE COMPOSTOS PELA TECNICA DE CROMATOGRAFIA.",
+    "denominacao": "COLUNA CROMATOGRAFICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "695975-302"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "1"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "695975-302"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "695975-302"
+    ]
+  }
+]

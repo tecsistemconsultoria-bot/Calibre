@@ -1,0 +1,2908 @@
+[
+  {
+    "seq": 1,
+    "descricao": "179.050, SENDO: PROVETA, DE VIDRO GRADUADO, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "179 050   CODIGO 179 050   ARTIGO DE VIDRO PARA LABORATORIO SENDO  PROVETA GRADUADA BASE SEXTAVADA D",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "179.050"
+    ]
+  },
+  {
+    "seq": 2,
+    "descricao": "179.100, SENDO: PROVETA, DE VIDRO GRADUADO, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "179 100   CODIGO 179 100   ARTIGO DE VIDRO PARA LABORATORIO SENDO  PROVETA GRADUADA BASE SEXTAVADA D",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "179.100"
+    ]
+  },
+  {
+    "seq": 3,
+    "descricao": "179.250, SENDO: PROVETA, DE VIDRO GRADUADO, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "179 250   CODIGO  179 250   ARTIGO DE VIDRO PARA LABORATORIO SENDO  PROVETA GRADUADA BASE SEXTAVADA ",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "179.250"
+    ]
+  },
+  {
+    "seq": 4,
+    "descricao": "179.901, SENDO: PROVETA, DE VIDRO GRADUADO, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "179 901   CODIGO 179 901  ARTIGO DE VIDRO PARA LABORATORIO SENDO  PROVETA GRADUADA BASE SEXTAVADA DE",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "179.901"
+    ]
+  },
+  {
+    "seq": 5,
+    "descricao": "180.230, SENDO: PIPETA DE VIDRO, COEFICIENTE DE DILATACAO 7,8 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "180 230   CODIGO 180 230   ARTIGO DE VIDRO PARA USO EM LABORATORIO SENDO  PIPETA PASTEUR PONTA LONGA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70179000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "180.230"
+    ]
+  },
+  {
+    "seq": 6,
+    "descricao": "171.001, SENDO: PIPETA SOROLOGICA, DE VIDRO GRADUADO, COEFICIENTE DE DILATACAO 4,9*10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "181 001   CODIGO 181 001   DE OUTRO VIDRO COM UM COEFICIENTE DE DILATACAO LINEAR NAO SUPERIOR A 5X10",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "171.001"
+    ]
+  },
+  {
+    "seq": 7,
+    "descricao": "181.010, SENDO: PIPETA SOROLOGICA, DE VIDRO GRADUADO, COEFICIENTE DE DILATACAO 7,8 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "181 010   CODIGO 181 010   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  PIPETA SOROLOGICA GRADUADA ESGOT",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70179000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "181.010"
+    ]
+  },
+  {
+    "seq": 8,
+    "descricao": "181.020, SENDO: PIPETA SOROLOGICA, DE VIDRO GRADUADO, COEFICIENTE DE DILATACAO 7,8 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "181 020   CODIGO 181 020   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  PIPETA SOROLOGICA GRADUADA ESGOT",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70179000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "181.020"
+    ]
+  },
+  {
+    "seq": 9,
+    "descricao": "181.025, SENDO: PIPETA SOROLOGICA, DE VIDRO GRADUADO, COEFICIENTE DE DILATACAO 7,8 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "181 025   CODIGO 181 025   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  PIPETA SOROLOGICA GRADUADA ESGOT",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70179000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "181.025"
+    ]
+  },
+  {
+    "seq": 10,
+    "descricao": "182.001, SENDO: PIPETA SOROLOGICA, DE VIDRO GRADUADO, COEFICIENTE DE DILATACAO 7,8 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "182 001   CODIGO 182 001   DE OUTRO VIDRO COM UM COEFICIENTE DE DILATACAO LINEAR NAO SUPERIOR A 5X10",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70179000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "182.001"
+    ]
+  },
+  {
+    "seq": 11,
+    "descricao": "182.002, SENDO: PIPETA SOROLOGICA, DE VIDRO GRADUADO, COEFICIENTE DE DILATACAO 7,8 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "182 002   CODIGO 182 002   DE OUTRO VIDRO COM UM COEFICIENTE DE DILATACAO LINEAR NAO SUPERIOR A 5X10",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70179000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "182.002"
+    ]
+  },
+  {
+    "seq": 12,
+    "descricao": "185.010, SENDO: PROVETA, DE VIDRO GRADUADO, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "185 010   CODIGO 185 010   DE OUTRO VIDRO COM UM COEFICIENTE DE DILATACAO LINEAR NAO SUPERIOR A 5X10",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "185.010"
+    ]
+  },
+  {
+    "seq": 13,
+    "descricao": "185.250, SENDO: PROVETA, DE VIDRO GRADUADO, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "185 250   CODIGO 185 250   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  PROVETA GRADUADA BASE SEXTAVADA ",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "185.250"
+    ]
+  },
+  {
+    "seq": 14,
+    "descricao": "185.500, SENDO: PROVETA, DE VIDRO GRADUADO, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "185 500   CODIGO  185 500   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  PROVETA GRADUADA BASE SEXTAVADA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "185.500"
+    ]
+  },
+  {
+    "seq": 15,
+    "descricao": "185.901, SENDO: PROVETA, DE VIDRO GRADUADO, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "185 901   CODIGO 185 901   DE OUTRO VIDRO COM UM COEFICIENTE DE DILATACAO LINEAR NAO SUPERIOR A 5X10",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "185.901"
+    ]
+  },
+  {
+    "seq": 16,
+    "descricao": "185.902, SENDO: PROVETA, DE VIDRO GRADUADO, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "185 902   CODIGO 185 902   DE OUTRO VIDRO COM UM COEFICIENTE DE DILATACAO LINEAR NAO SUPERIOR A 5X10",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "185.902"
+    ]
+  },
+  {
+    "seq": 17,
+    "descricao": "186.025, SENDO: PROVETA, DE VIDRO GRADUADO, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "186 025   CODIGO 186 025   DE OUTRO VIDRO COM UM COEFICIENTE DE DILATACAO LINEAR NAO SUPERIOR A 5X10",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "186.025"
+    ]
+  },
+  {
+    "seq": 18,
+    "descricao": "186.050, SENDO: PROVETA, DE VIDRO GRADUADO, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "186 050   CODIGO 186 050   DE OUTRO VIDRO COM UM COEFICIENTE DE DILATACAO LINEAR NAO SUPERIOR A 5X10",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "186.050"
+    ]
+  },
+  {
+    "seq": 19,
+    "descricao": "186.100, SENDO: PROVETA, DE VIDRO GRADUADO, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "186 100   CODIGO  186 100   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  PROVETA GRADUADA BASE SEXTAVADA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "186.100"
+    ]
+  },
+  {
+    "seq": 20,
+    "descricao": "186.500, SENDO: PROVETA, ARTIGO DE VIDRO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KEVIN, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "186 500   CODIGO  186 500   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  PROVETA GRADUADA BASE SEXTAVADA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "186.500"
+    ]
+  },
+  {
+    "seq": 21,
+    "descricao": "186.901, SENDO: PROVETA, ARTIGO DE VIDRO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KEVIN, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "186 901   CODIGO  186 901   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  PROVETA GRADUADA BASE SEXTAVADA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "186.901"
+    ]
+  },
+  {
+    "seq": 22,
+    "descricao": "186.902, SENDO: PROVETA, ARTIGO DE VIDRO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KEVIN, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "186 902   CODIGO 186 902   ARTIGO DE VIDRO PARA LABORATORIO SENDO  PROVETA GRADUADA BASE SEXTAVADA D",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "186.902"
+    ]
+  },
+  {
+    "seq": 23,
+    "descricao": "188.010, SENDO: TUBO CENTRIFUGA, ARTIGO DE VIDRO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KEVIN, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "188 010   CODIGO 188 010  ARTIGO DE VIDRO PARA LABORATORIO SENDO  TUBO CENTRIFUGA CONICO COM ORLA GR",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "188.010"
+    ]
+  },
+  {
+    "seq": 24,
+    "descricao": "188.015, SENDO: TUBO CENTRIFUGA, ARTIGO DE VIDRO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KEVIN, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "188 015   CODIGO 188 015   DE OUTRO VIDRO COM UM COEFICIENTE DE DILATACAO LINEAR NAO SUPERIOR A 5X10",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "188.015"
+    ]
+  },
+  {
+    "seq": 25,
+    "descricao": "189.001, SENDO: PLACA DE PETRI, DE OUTROS VIDROS, MARCA UNIGLAS, COM COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KEVIN, UTILIZADO EM ANALISES LABORATORIAIS.",
+    "denominacao": "189 001   CODIGO 189 001   ARTIGO DE VIDRO PARA USO EM LABORATORIO SENDO   PLACA DE PETRI DE VIDRO 6",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "189.001"
+    ]
+  },
+  {
+    "seq": 26,
+    "descricao": "189.003, SENDO: PLACA DE PETRI, DE OUTROS VIDROS, MARCA UNIGLAS, COM COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KEVIN, UTILIZADO EM ANALISES LABORATORIAIS.",
+    "denominacao": "189 003   CODIGO 189 003   ARTIGO DE VIDRO PARA LABORATORIO SENDO   PLACA DE PETRI DE VIDRO NEUTRO 1",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "189.003"
+    ]
+  },
+  {
+    "seq": 27,
+    "descricao": "190.005, SENDO: COPO BEAKER, ARTIGO DE VIDRO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KEVIN, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "190 005   CODIGO 190 005   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  COPO BEAKER FB GRIFFIN  GRADUADO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "190.005"
+    ]
+  },
+  {
+    "seq": 28,
+    "descricao": "190.010, SENDO: COPO BEAKER, ARTIGO DE VIDRO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KEVIN, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "190 010   CODIGO  190 010   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  COPO BECKER FB GRIFFIN  GRADUAD",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "190.010"
+    ]
+  },
+  {
+    "seq": 29,
+    "descricao": "190.025, SENDO: COPO BEAKER, ARTIGO DE VIDRO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KEVIN, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "190 025   CODIGO 190 025   ARTIGO DE VIDRO PARA LABORATORIO SENDO  COPO BEAKER FB GRIFFIN  GRADUADO ",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "190.025"
+    ]
+  },
+  {
+    "seq": 30,
+    "descricao": "190.800, SENDO: COPO BEAKER, ARTIGO DE VIDRO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KEVIN, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "190 800   CODIGO 190 800   ARTIGO DE VIDRO PARA LABORATORIO SENDO  COPO BEAKER FB GRIFFIN  GRADUADO ",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "190.800"
+    ]
+  },
+  {
+    "seq": 31,
+    "descricao": "190.902, SENDO: COPO BEAKER, ARTIGO DE VIDRO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KEVIN, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "190 902   CODIGO 1632417091950   190 902   ARTIGO DE VIDRO PARA LABORATORIO SENDO  COPO BEAKER FB GR",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "190.902"
+    ]
+  },
+  {
+    "seq": 32,
+    "descricao": "190.903, SENDO: COPO BEAKER, ARTIGO DE VIDRO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KEVIN, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "190 903   CODIGO  190 903   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  COPO BEAKER FB GRIFFIN  GRADUAD",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "190.903"
+    ]
+  },
+  {
+    "seq": 33,
+    "descricao": "190.904, SENDO: COPO BEAKER, ARTIGO DE VIDRO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KEVIN, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "190 904   CODIGO  190 904   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  COPO BEAKER FB GRIFFIN  GRADUAD",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "190.904"
+    ]
+  },
+  {
+    "seq": 34,
+    "descricao": "190047900, SENDO: TUBO DIGESTAO, PARTE RECONHECIVEL COMO DE USO EXCLUSIVO EM APARELHOS PARA ANALISES FISICAS OU QUIMICAS,  UTILIZADA EM ESPECTROSCOPIA ATOMICA.",
+    "denominacao": "190047900   CODIGO  190047900   DESCRICAO  TUBO DIGESTAO POLIPROPILENO 50ML 500UN   FINALIDADE  TUBO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279091",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_9241",
+        "valor": "190047900"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "1"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "190047900"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Espectrometro de absorção atômica"
+      }
+    ],
+    "codigosInterno": [
+      "190047900"
+    ]
+  },
+  {
+    "seq": 35,
+    "descricao": "191.500, SENDO: COPO BEAKER, ARTIGO DE VIDRO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KEVIN, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "191 500   CODIGO  191 500   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  COPO BECKER FA BERZELIUS  GRADU",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "191.500"
+    ]
+  },
+  {
+    "seq": 36,
+    "descricao": "19243-80540, SENDO: ADAPTADOR PARA COLUNA, PARTE RECONHECIVEL COMO DE USO EXCLUSIVO EM APARELHOS PARA ANALISES FISICAS OU QUIMICAS, UTILIZADA PARA ANALISES CROMATOGRAFICAS.",
+    "denominacao": "19243 80540   CODIGO  19243 80540   DESCRICAO  ADAPTADOR 1 4IN COLUNA EMPACOTADA USO LINER 1UN   FIN",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19243-80540"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "19243-80540"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "19243-80540"
+    ]
+  },
+  {
+    "seq": 37,
+    "descricao": "19245-20525, SENDO: COLUNA, PARTE RECONHECIVEL COMO DE USO EXCLUSIVO EM APARELHOS PARA ANALISES FISICAS OU QUIMICAS, UTILIZADA PARA ANALISES CROMATOGRAFICAS.",
+    "denominacao": "19245 20525   CODIGO  19245 20525   DESCRICAO  INSERT COLUNA 320UM 5 ANEIS PRATA   FINALIDADE  INSER",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "19245-20525"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19245-20525"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "19245-20525"
+    ]
+  },
+  {
+    "seq": 38,
+    "descricao": "19245 20780   CODIGO 19245 20780   PEQUENO CILINDRO COM REVESTIMENTO EM ALUMINIO E 4 ANEIS NA EXTREMIDADE   1 UN   FINALIDADE  PARA ADAPTACAO DE VOLUMES MENORES EM COLUNAS DE CROMATOGRAFIA LIQUIDA   MARCA  AGILENT, PARTE RECONHECIVEL COMO DE USO EXCLUSIVO EM APARELHOS PARA ANALISES FISICAS OU QUIMICAS. DESTAQUE: 999. COD. IMPORTADOR: 19245-20780. COD. FORNECEDOR: 19245-20780",
+    "denominacao": "19245 20780   CODIGO 19245 20780   PEQUENO CILINDRO COM REVESTIMENTO EM ALUMINIO E 4 ANEIS NA EXTREM",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "19245-20780"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "19245-20780"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "19245-20780"
+    ]
+  },
+  {
+    "seq": 39,
+    "descricao": "210164100, SENDO: QUEIMADOR MARK 7 OXIDO NITROSO ACETILENO, UTILIZADO EM ESPECTROSCOPIA ATOMICA, MARCA AGILENT, PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "210164100   CODIGO  210164100   DESCRICAO  QUEIMADOR MARK 7 OXIDO NITROSO ACETILENO 1UN   FINALIDADE",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "210164100"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Espectrometro de absorção atômica"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "210164100"
+      }
+    ],
+    "codigosInterno": [
+      "210164100"
+    ]
+  },
+  {
+    "seq": 40,
+    "descricao": "3050 1246   CODIGO  3050 1246   ARRUELA METALICA EM FORMATO MOLA ONDULADA  COM 24 5 DE DIAMETRO EXTERNO   1UN   FINALIDADE  PECA DE REPARO UTILIZADA EM CROMATOGRAFO GASOSO 7890GC   MARCA  AGILENT",
+    "denominacao": "3050 1246   CODIGO  3050 1246   ARRUELA METALICA EM FORMATO MOLA ONDULADA  COM 24 5 DE DIAMETRO EXTE",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "73182200",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "codigosInterno": [
+      "3050-1246"
+    ]
+  },
+  {
+    "seq": 41,
+    "descricao": "310.010, SENDO: BARRA MAGNETICA CILINDRICA, USADA PARA AGITAR VIDRARIAS QUE FICAM NO AGITADOR MAGNETICO, PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "310 010   CODIGO 310 010   OUTRAS IMAS PERMANENTES E ARTEFATOS DESTINADOS A TORNAREM SE IMAS PERMANE",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "84799090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9329",
+        "valor": "Imã cilíndrico revestido com teflon"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "AGITADOR MAGNETICO"
+      },
+      {
+        "atributo": "ATT_9101",
+        "valor": "Barra magnética"
+      },
+      {
+        "atributo": "ATT_8645",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10125",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Unilab"
+      }
+    ],
+    "codigosInterno": [
+      "310.010"
+    ]
+  },
+  {
+    "seq": 42,
+    "descricao": "312.020, SENDO: BARRA MAGNETICA CILINDRICA, USADA PARA AGITAR VIDRARIAS QUE FICAM NO AGITADOR MAGNETICO, PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "312 020   CODIGO 312 020   OUTRAS PARTES DE MAQUINAS DE MOVIMENTO PROPRIO SENDO  BARRA MAGNETICA CIL",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "84799090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Unilab"
+      },
+      {
+        "atributo": "ATT_9329",
+        "valor": "Imã cilíndrico revestido com teflon"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "AGITADOR MAGNETICO"
+      },
+      {
+        "atributo": "ATT_9101",
+        "valor": "Barra magnética"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10125",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8645",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "312.020"
+    ]
+  },
+  {
+    "seq": 43,
+    "descricao": "312.025, SENDO: BARRA MAGNETICA CILINDRICA, USADA PARA AGITAR VIDRARIAS QUE FICAM NO AGITADOR MAGNETICO, PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "312 025   CODIGO 312 025   OUTRAS PARTES DE MAQUINAS DE MOVIMENTO PROPRIO SENDO  BARRA MAGNETICA CIL",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "84799090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10598",
+        "valor": "AGITADOR MAGNETICO"
+      },
+      {
+        "atributo": "ATT_8645",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9101",
+        "valor": "Barra magnética"
+      },
+      {
+        "atributo": "ATT_10125",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9329",
+        "valor": "Imã cilíndrico revestido com teflon"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Unilab"
+      }
+    ],
+    "codigosInterno": [
+      "312.025"
+    ]
+  },
+  {
+    "seq": 44,
+    "descricao": "312.030, SENDO: BARRA MAGNETICA CILINDRICA, USADA PARA AGITAR VIDRARIAS QUE FICAM NO AGITADOR MAGNETICO, PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "312 030   CODIGO 312 030   OUTRAS PARTES DE MAQUINAS DE MOVIMENTO PROPRIO SENDO  BARRA MAGNETICA CIL",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "84799090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Unilab"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "AGITADOR MAGNETICO"
+      },
+      {
+        "atributo": "ATT_8645",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10125",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9101",
+        "valor": "Barra magnética"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9329",
+        "valor": "Imã cilíndrico revestido com teflon"
+      }
+    ],
+    "codigosInterno": [
+      "312.030"
+    ]
+  },
+  {
+    "seq": 45,
+    "descricao": "313.030, SENDO: BARRA MAGNETICA CILINDRICA, USADA PARA AGITAR VIDRARIAS QUE FICAM NO AGITADOR MAGNETICO, PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "313 030   CODIGO 313 030   OUTRAS PARTES PARA MAQUINA DE MOVIMENTO PROPRIO SENDO  BARRA MAGNETICA CI",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "84799090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Unilab"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10125",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9329",
+        "valor": "Imã cilíndrico revestido com teflon"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9101",
+        "valor": "Barra magnética"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "AGITADOR MAGNETICO"
+      },
+      {
+        "atributo": "ATT_8645",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "313.030"
+    ]
+  },
+  {
+    "seq": 46,
+    "descricao": "314.050, SENDO: BARRA MAGNETICA CILINDRICA, USADA PARA AGITAR VIDRARIAS QUE FICAM NO AGITADOR MAGNETICO, PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "314 050   CODIGO 314 050   OUTRAS PARTES DE MAQUINAS DE MOVIMENTO PROPRIO SENDO  BARRA MAGNETICA CIL",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "84799090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_9101",
+        "valor": "Barra magnética"
+      },
+      {
+        "atributo": "ATT_10125",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Unilab"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "AGITADOR MAGNETICO"
+      },
+      {
+        "atributo": "ATT_8645",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9329",
+        "valor": "Imã cilíndrico revestido com teflon"
+      }
+    ],
+    "codigosInterno": [
+      "314.050"
+    ]
+  },
+  {
+    "seq": 47,
+    "descricao": "320.025, SENDO: BARRA MAGNETICA CILINDRICA, USADA PARA AGITAR VIDRARIAS QUE FICAM NO AGITADOR MAGNETICO, PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "320 025   CODIGO 320 025   OUTRAS PARTES DE MAQUINAS DE MOVIMENTO PROPRIO SENDO  BARRA MAGNETICA CIL",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "84799090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10125",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9329",
+        "valor": "Imã cilíndrico revestido com teflon"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "AGITADOR MAGNETICO"
+      },
+      {
+        "atributo": "ATT_8645",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Unilab"
+      },
+      {
+        "atributo": "ATT_9101",
+        "valor": "Barra magnética"
+      }
+    ],
+    "codigosInterno": [
+      "320.025"
+    ]
+  },
+  {
+    "seq": 48,
+    "descricao": "321.052, SENDO: BARRA MAGNETICA CILINDRICA, USADA PARA AGITAR VIDRARIAS QUE FICAM NO AGITADOR MAGNETICO, PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "321 052   CODIGO 321 052   OUTRAS PARTES DE MAQUINAS DE MOVIMENTO PROPRIO SENDO  BARRA MAGNETICA CIL",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "84799090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Unilab"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9101",
+        "valor": "Barra magnética"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "AGITADOR MAGNETICO"
+      },
+      {
+        "atributo": "ATT_10125",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9329",
+        "valor": "Imã cilíndrico revestido com teflon"
+      },
+      {
+        "atributo": "ATT_8645",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "321.052"
+    ]
+  },
+  {
+    "seq": 49,
+    "descricao": "350035, SENDO: CADINHO DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADOS PARA DETERMINACAO DE SOLIDOS SUSPENSOS.",
+    "denominacao": "350 035   CODIGO 350 035   CADINHOS QUE CONTENHAM  EM PESO  MAIS DE 50   DE ALUMINA  AL2O3  OU DE UM",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032010",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "350.035"
+    ]
+  },
+  {
+    "seq": 50,
+    "descricao": "352010, SENDO: CADINHO DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADOS PARA FUSAO DO ESTADO SOLIDOS PARA O ESTADO LIQUIDO.",
+    "denominacao": "352 010   CODIGO 352 010   CADINHO DE ALUMINA TIPO FUSAO  FORMA BAIXA  UTILIZADOS PARA FUSAO DO ESTA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032010",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "352.010"
+    ]
+  },
+  {
+    "seq": 51,
+    "descricao": "352015, SENDO: CADINHO DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADOS PARA FUSAO DO ESTADO SOLIDOS PARA O ESTADO LIQUIDO.",
+    "denominacao": "352 015   CODIGO 352 015   CADINHOS QUE CONTENHAM  EM PESO  MAIS DE 50   DE ALUMINA  AL2O3  OU DE UM",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032010",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "352.015"
+    ]
+  },
+  {
+    "seq": 52,
+    "descricao": "352075, SENDO: CADINHO DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADOS PARA FUSAO DO ESTADO SOLIDOS PARA O ESTADO LIQUIDO.",
+    "denominacao": "352 075   CODIGO 352 075   CADINHOS QUE CONTENHAM  EM PESO  MAIS DE 50   DE ALUMINA  AL2O3  OU DE UM",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032010",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "352.075"
+    ]
+  },
+  {
+    "seq": 53,
+    "descricao": "352150, SENDO: CADINHO DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADOS PARA FUSAO DO ESTADO SOLIDOS PARA O ESTADO LIQUIDO.",
+    "denominacao": "352 150   CODIGO 352 150   CADINHOS QUE CONTENHAM  EM PESO  MAIS DE 50   DE ALUMINA  AL2O3  OU DE UM",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032010",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "352.150"
+    ]
+  },
+  {
+    "seq": 54,
+    "descricao": "353014, SENDO: CADINHO DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADOS PARA FUSAO DO ESTADO SOLIDOS PARA O ESTADO LIQUIDO.",
+    "denominacao": "353 014   CODIGO 353 014   CADINHOS QUE CONTENHAM  EM PESO  MAIS DE 50   DE ALUMINA  AL2O3  OU DE UM",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032010",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "353.014"
+    ]
+  },
+  {
+    "seq": 55,
+    "descricao": "353018, SENDO: CADINHO DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADOS PARA FUSAO DO ESTADO SOLIDOS PARA O ESTADO LIQUIDO.",
+    "denominacao": "353 018   CODIGO 353 018   CADINHOS QUE CONTENHAM  EM PESO  MAIS DE 50   DE ALUMINA  AL2O3  OU DE UM",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032010",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "353.018"
+    ]
+  },
+  {
+    "seq": 56,
+    "descricao": "353025, SENDO: CADINHO DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADOS PARA FUSAO DO ESTADO SOLIDOS PARA O ESTADO LIQUIDO.",
+    "denominacao": "353 025   CODIGO 353 025   CADINHOS QUE CONTENHAM  EM PESO  MAIS DE 50   DE ALUMINA  AL2O3  OU DE UM",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032010",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "353.025"
+    ]
+  },
+  {
+    "seq": 57,
+    "descricao": "353030, SENDO: CADINHO DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADOS PARA FUSAO DO ESTADO SOLIDOS PARA O ESTADO LIQUIDO.",
+    "denominacao": "353 030   CODIGO 353 030   CADINHOS QUE CONTENHAM  EM PESO  MAIS DE 50   DE ALUMINA  AL2O3  OU DE UM",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032010",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "353.030"
+    ]
+  },
+  {
+    "seq": 58,
+    "descricao": "353040, SENDO: CADINHO DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADOS PARA FUSAO DO ESTADO SOLIDOS PARA O ESTADO LIQUIDO.",
+    "denominacao": "353 040   CODIGO 353 040   CADINHOS QUE CONTENHAM  EM PESO  MAIS DE 50   DE ALUMINA  AL2O3  OU DE UM",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032010",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "353.040"
+    ]
+  },
+  {
+    "seq": 59,
+    "descricao": "353050, SENDO: CADINHO DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADOS PARA FUSAO DO ESTADO SOLIDOS PARA O ESTADO LIQUIDO.",
+    "denominacao": "353 050   CODIGO 353 050   CADINHOS QUE CONTENHAM  EM PESO  MAIS DE 50   DE ALUMINA  AL2O3  OU DE UM",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032010",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "353.050"
+    ]
+  },
+  {
+    "seq": 60,
+    "descricao": "353100, SENDO: CADINHO DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADOS PARA FUSAO DO ESTADO SOLIDOS PARA O ESTADO LIQUIDO.",
+    "denominacao": "353 100   CODIGO 353 100   CADINHOS QUE CONTENHAM  EM PESO  MAIS DE 50   DE ALUMINA  AL2O3  OU DE UM",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032010",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "353.100"
+    ]
+  },
+  {
+    "seq": 61,
+    "descricao": "354020, SENDO: CADINHO DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADOS PARA FUSAO DO ESTADO SOLIDOS PARA O ESTADO LIQUIDO.",
+    "denominacao": "354 020   CODIGO 354 020   CADINHOS QUE CONTENHAM  EM PESO  MAIS DE 50   DE ALUMINA  AL2O3  OU DE UM",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032010",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "354020"
+    ]
+  },
+  {
+    "seq": 62,
+    "descricao": "354025, SENDO: CADINHO DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADOS PARA FUSAO DO ESTADO SOLIDOS PARA O ESTADO LIQUIDO.",
+    "denominacao": "354 025   CODIGO 354 025   CADINHOS QUE CONTENHAM  EM PESO  MAIS DE 50   DE ALUMINA  AL2O3  OU DE UM",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032010",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "354.025"
+    ]
+  },
+  {
+    "seq": 63,
+    "descricao": "354035, SENDO: CADINHO DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADOS PARA FUSAO DO ESTADO SOLIDOS PARA O ESTADO LIQUIDO.",
+    "denominacao": "354 035   CODIGO 354 035   CADINHOS QUE CONTENHAM  EM PESO  MAIS DE 50   DE ALUMINA  AL2O3  OU DE UM",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032010",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "354.035"
+    ]
+  },
+  {
+    "seq": 64,
+    "descricao": "354045, SENDO: CADINHO DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADOS PARA FUSAO DO ESTADO SOLIDOS PARA O ESTADO LIQUIDO.",
+    "denominacao": "354 045   CODIGO 354 045   CADINHOS QUE CONTENHAM  EM PESO  MAIS DE 50   DE ALUMINA  AL2O3  OU DE UM",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032010",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "354.045"
+    ]
+  },
+  {
+    "seq": 65,
+    "descricao": "354055, SENDO: CADINHO DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADOS PARA FUSAO DO ESTADO SOLIDOS PARA O ESTADO LIQUIDO.",
+    "denominacao": "354 055   CODIGO 354 055   CADINHOS QUE CONTENHAM  EM PESO  MAIS DE 50   DE ALUMINA  AL2O3  OU DE UM",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032010",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "354.055"
+    ]
+  },
+  {
+    "seq": 66,
+    "descricao": "354125, SENDO: CADINHO DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADOS PARA FUSAO DO ESTADO SOLIDOS PARA O ESTADO LIQUIDO.",
+    "denominacao": "354 125   CODIGO 354 125   CADINHOS QUE CONTENHAM  EM PESO  MAIS DE 50   DE ALUMINA  AL2O3  OU DE UM",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032010",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "354.125"
+    ]
+  },
+  {
+    "seq": 67,
+    "descricao": "355040, SENDO: CAPSULA DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADOS PARA EVAPORACAO.",
+    "denominacao": "355 040   CODIGO 355 040   OUTROS PRODUTOS CERAMICOS COM PESO MAIOR QUE 50  DE ALUMINA SENDO  CAPSUL",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "393550401"
+    ]
+  },
+  {
+    "seq": 68,
+    "descricao": "355070, SENDO: CAPSULA DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADOS PARA EVAPORACAO.",
+    "denominacao": "355 070   CODIGO 355 070   OUTROS PRODUTOS CERAMICOS COM PESO MAIOR QUE 50  DE ALUMINA SENDO  CAPSUL",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "355.070"
+    ]
+  },
+  {
+    "seq": 69,
+    "descricao": "355080, SENDO: CAPSULA DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADOS PARA EVAPORACAO.",
+    "denominacao": "355 080   CODIGO 355 080   OUTROS PRODUTOS CERAMICOS COM PESO MAIOR QUE 50  DE ALUMINA SENDO  CAPSUL",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "355080"
+    ]
+  },
+  {
+    "seq": 70,
+    "descricao": "355095, SENDO: CAPSULA DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADOS PARA EVAPORACAO.",
+    "denominacao": "355 095   CODIGO 355 095   OUTROS PRODUTOS CERAMICOS COM PESO MAIOR QUE 50   DE ALUMINA SENDO  CAPSU",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "355.095"
+    ]
+  },
+  {
+    "seq": 71,
+    "descricao": "355120, SENDO: CAPSULA DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADOS PARA EVAPORACAO.",
+    "denominacao": "355 120   CODIGO 355 120   OUTROS PRODUTOS CERAMICOS COM PESO MAIOR QUE 50 PORCENTO DE ALUMINA SENDO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "355.120"
+    ]
+  },
+  {
+    "seq": 72,
+    "descricao": "355130, SENDO: CAPSULA DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADOS PARA EVAPORACAO.",
+    "denominacao": "355 130   CODIGO 355 130   OUTROS PRODUTOS CERAMICOS COM PESO MAIOR QUE 50  DE ALUMINA SENDO  CAPSUL",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "355.130"
+    ]
+  },
+  {
+    "seq": 73,
+    "descricao": "356145, SENDO: ESPATULA E COLHER DE CERAMICA REFRATARIO,COM PESO DE 99% EM ALUMINA, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "356 145   CODIGO 356 145   OUTROS PRODUTOS CERAMICOS COM PESO MAIOR QUE 50  DE ALUMINA SENDO  ESPATU",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "356.145"
+    ]
+  },
+  {
+    "seq": 74,
+    "descricao": "358090, SENDO: FUNIL DE BUCHNER DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "358 090   CODIGO 358 090   OUTROS PRODUTOS CERAMICOS COM PESO MAIOR QUE 50  DE ALUMINA SENDO  FUNIL ",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "358.090"
+    ]
+  },
+  {
+    "seq": 75,
+    "descricao": "358115, SENDO: FUNIL DE BUCHNER DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "358 115   CODIGO 358 115  OUTROS PRODUTOS CERAMICOS COM PESO MAIOR QUE 50  DE ALUMINA SENDO  FUNIL D",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "358.115"
+    ]
+  },
+  {
+    "seq": 76,
+    "descricao": "358150, SENDO: FUNIL DE BUCHNER DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "358 150   CODIGO  358 150   OUTROS PRODUTOS CERAMICOS COM PESO MAIOR QUE 50  DE ALUMINA SENDO  FUNIL",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "358.150"
+    ]
+  },
+  {
+    "seq": 77,
+    "descricao": "358185, SENDO: FUNIL DE BUCHNER DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "358 185   CODIGO 358 185   OUTROS PRODUTOS CERAMICOS COM PESO MAIOR QUE 50  DE ALUMINA SENDO  FUNIL ",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "358.185"
+    ]
+  },
+  {
+    "seq": 78,
+    "descricao": "358240, SENDO: FUNIL DE BUCHNER DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "358 240   CODIGO 358 240   OUTROS PRODUTOS CERAMICOS COM PESO MAIOR QUE 50  DE ALUMINA SENDO  FUNIL ",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "358.240"
+    ]
+  },
+  {
+    "seq": 79,
+    "descricao": "359103, SENDO: PISTILO DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "359 103   CODIGO 359 103   OUTROS PRODUTOS CERAMICOS COM PESO MAIOR QUE 50  DE ALUMINA SENDO  GRAL C",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "359.103"
+    ]
+  },
+  {
+    "seq": 80,
+    "descricao": "359250, SENDO: PISTILO DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "359 250   CODIGO 359 250   OUTROS PRODUTOS CERAMICOS COM PESO MAIOR QUE 50  DE ALUMINA SENDO  GRAL C",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "359.250"
+    ]
+  },
+  {
+    "seq": 81,
+    "descricao": "359280, SENDO: PISTILO DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "359 280   CODIGO 359 280   OUTROS PRODUTOS CERAMICOS COM PESO MAIOR QUE 50  DE ALUMINA SENDO  GRAL C",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "359.280"
+    ]
+  },
+  {
+    "seq": 82,
+    "descricao": "360100, SENDO: PISTILO DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "360 100   CODIGO 360 100   UTROS PRODUTOS CERAMICOS COM PESO MAIOR QUE 50  DE ALUMINA SENDO  PISTILO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "360.100"
+    ]
+  },
+  {
+    "seq": 83,
+    "descricao": "360120, SENDO: PISTILO DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "360 120   CODIGO 360 120   OUTROS PRODUTOS CERAMICOS COM PESO MAIOR QUE 50 PORCENTO DE ALUMINA SENDO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "360.120"
+    ]
+  },
+  {
+    "seq": 84,
+    "descricao": "360175, SENDO: PISTILO DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "360 175   CODIGO 360 175   OUTROS PRODUTOS CERAMICOS COM PESO MAIOR QUE 50  DE ALUMINA SENDO  PISTIL",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "360.175"
+    ]
+  },
+  {
+    "seq": 85,
+    "descricao": "363140, SENDO: PLACA PARA DESSECADOR DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "363 140   CODIGO 363 140   OUTROS PRODUTOS CERAMICOS COM PESO MAIOR QUE 50  DE ALUMINA SENDO  PLACA ",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "363.140"
+    ]
+  },
+  {
+    "seq": 86,
+    "descricao": "363220, SENDO: PLACA PARA DESSECADOR DE CERAMICA REFRATARIO, COM PESO DE 99% EM ALUMINA, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "363 220   CODIGO 363 220   OUTROS PRODUTOS CERAMICOS COM PESO MAIOR QUE 50   DE ALUMINA SENDO  PLACA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "69032090",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10706",
+        "valor": "Porcelana"
+      }
+    ],
+    "codigosInterno": [
+      "363.220"
+    ]
+  },
+  {
+    "seq": 87,
+    "descricao": "370001, SENDO: PIPETADOR ATE 2ML, UTILIZADO EM ANALISES LABORATORIAIS, PARA DISPENSACAO DE LIQUIDOS.",
+    "denominacao": "370 001   370 001   ARTIGOS DE LABORATORIO DE PLASTICO SENDO   PIPETADOR PI PUMP FAIXA DE MEDICAO PA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "84798912",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8645",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10804",
+        "valor": "Transferência de líquidos em laboratórios analíticos"
+      },
+      {
+        "atributo": "ATT_10909",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Unilab"
+      },
+      {
+        "atributo": "ATT_9101",
+        "valor": "Pipetador pi-pump até 2mL"
+      },
+      {
+        "atributo": "ATT_9924",
+        "valor": "êmbolo e corpo plástico"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "Pi-pump 2mL"
+      }
+    ],
+    "codigosInterno": [
+      "370.001"
+    ]
+  },
+  {
+    "seq": 88,
+    "descricao": "371 002   CODIGO  371 002   DISTRIBUIDORES E DOSADORES DE SOLIDOS OU DE LIQUIDOS SENDO  PERA INSUFLADORA DE BORRACHA PARA BURETA COM RABICHO  MARCA UNILAB, DISTRIBUIDORES E DOSEADORES DE SOLIDOS OU DE LIQUIDOS. DESTAQUE: 999. COD. IMPORTADOR: 371.002. COD. FORNECEDOR: 371.002",
+    "denominacao": "371 002   CODIGO  371 002   DISTRIBUIDORES E DOSADORES DE SOLIDOS OU DE LIQUIDOS SENDO  PERA INSUFLA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "84798912",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8645",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9924",
+        "valor": "Corpo em borracha"
+      },
+      {
+        "atributo": "ATT_9101",
+        "valor": "Pera insufladora para bureta automática"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "Pera insufladora universal"
+      },
+      {
+        "atributo": "ATT_10909",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Unilab"
+      },
+      {
+        "atributo": "ATT_10804",
+        "valor": "Transferência de líquidos em laboratórios analíticos"
+      }
+    ],
+    "codigosInterno": [
+      "371.002"
+    ]
+  },
+  {
+    "seq": 89,
+    "descricao": "MICROPIPETA ELETRONICA, UTILIZADA PARA COLETAR, TRANSFERIR E DISPENSAR VOLUMES PEQUENOS DE LIQUIDO POR MEIO DE DESLOCAMENTO DE AR, PARA USO GERAL EM LABORATORIOS",
+    "denominacao": "46200700   CODIGO  46200700   DISPOSITIVO DE ELETRONICO PLASTICO COM EMBOLO  DO TIPO MICROPIPETA  EL",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "84798912",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10909",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_10804",
+        "valor": "Transferência de líquidos em laboratórios analíticos"
+      },
+      {
+        "atributo": "ATT_9924",
+        "valor": "Dispositivo com corpo plástico e êmbolo interno"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "Finnpipette Novus"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Thermo Scientific"
+      },
+      {
+        "atributo": "ATT_8645",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9101",
+        "valor": "Micropipeta"
+      }
+    ],
+    "codigosInterno": [
+      "46200700"
+    ]
+  },
+  {
+    "seq": 90,
+    "descricao": "MICROPIPETA, UTILIZADA PARA COLETAR, TRANSFERIR E DISPENSAR VOLUMES PEQUENOS DE LIQUIDO POR MEIO DE DESLOCAMENTO DE AR, PARA USO GERAL EM LABORATORIOS",
+    "denominacao": "4642040   CODIGO  4642040   DISPOSITIVO DE PLASTICO COM EMBOLO  DO TIPO MICROPIPETA  PARA COLETAR  T",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "84798912",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8645",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10804",
+        "valor": "Transferência de líquidos em laboratórios analíticos"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Thermo Scientific"
+      },
+      {
+        "atributo": "ATT_10909",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "Finnpipette F2"
+      },
+      {
+        "atributo": "ATT_9101",
+        "valor": "Micropipeta"
+      },
+      {
+        "atributo": "ATT_9924",
+        "valor": "Dispositivo com corpo plástico e êmbolo interno"
+      }
+    ],
+    "codigosInterno": [
+      "4642040"
+    ]
+  },
+  {
+    "seq": 91,
+    "descricao": "MICROPIPETA, UTILIZADA PARA COLETAR, TRANSFERIR E DISPENSAR VOLUMES PEQUENOS DE LIQUIDO POR MEIO DE DESLOCAMENTO DE AR, PARA USO GERAL EM LABORATORIOS",
+    "denominacao": "4642060   CODIGO  4642060   DISPOSITIVO DE PLASTICO COM EMBOLO  DO TIPO MICROPIPETA  PARA COLETAR  T",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "84798912",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10804",
+        "valor": "Transferência de líquidos em laboratórios analíticos"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Thermo Scientific"
+      },
+      {
+        "atributo": "ATT_8645",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9101",
+        "valor": "Micropipeta"
+      },
+      {
+        "atributo": "ATT_9924",
+        "valor": "Dispositivo com corpo plástico e êmbolo interno"
+      },
+      {
+        "atributo": "ATT_10909",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "Finnpipette F2"
+      }
+    ],
+    "codigosInterno": [
+      "4642060"
+    ]
+  },
+  {
+    "seq": 92,
+    "descricao": "MICROPIPETA, UTILIZADA PARA COLETAR, TRANSFERIR E DISPENSAR VOLUMES PEQUENOS DE LIQUIDO POR MEIO DE DESLOCAMENTO DE AR, PARA USO GERAL EM LABORATORIOS",
+    "denominacao": "4642070   CODIGO  4642070   DISPOSITIVO DE PLASTICO COM EMBOLO  DO TIPO MICROPIPETA  PARA COLETAR  T",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "84798912",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_9924",
+        "valor": "Dispositivo com corpo plástico e êmbolo interno"
+      },
+      {
+        "atributo": "ATT_10909",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_10804",
+        "valor": "Transferência de líquidos em laboratórios analíticos"
+      },
+      {
+        "atributo": "ATT_8645",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "Finnpipette F2"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Thermo Scientific"
+      },
+      {
+        "atributo": "ATT_9101",
+        "valor": "Micropipeta"
+      }
+    ],
+    "codigosInterno": [
+      "4642070"
+    ]
+  },
+  {
+    "seq": 93,
+    "descricao": "MICROPIPETA, UTILIZADA PARA COLETAR, TRANSFERIR E DISPENSAR VOLUMES PEQUENOS DE LIQUIDO POR MEIO DE DESLOCAMENTO DE AR, PARA USO GERAL EM LABORATORIOS",
+    "denominacao": "4642080   CODIGO  4642080   DISPOSITIVO DE PLASTICO COM EMBOLO  DO TIPO MICROPIPETA  PARA COLETAR  T",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "84798912",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10804",
+        "valor": "Transferência de líquidos em laboratórios analíticos"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Thermo Scientific"
+      },
+      {
+        "atributo": "ATT_9924",
+        "valor": "Dispositivo com corpo plástico e êmbolo interno"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "Finnpipette F2"
+      },
+      {
+        "atributo": "ATT_8645",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9101",
+        "valor": "Micropipeta"
+      },
+      {
+        "atributo": "ATT_10909",
+        "valor": "99"
+      }
+    ],
+    "codigosInterno": [
+      "4642080"
+    ]
+  },
+  {
+    "seq": 94,
+    "descricao": "MICROPIPETA, UTILIZADA PARA COLETAR, TRANSFERIR E DISPENSAR VOLUMES PEQUENOS DE LIQUIDO POR MEIO DE DESLOCAMENTO DE AR, PARA USO GERAL EM LABORATORIOS",
+    "denominacao": "4642090   CODIGO  4642090   DISPOSITIVO DE PLASTICO COM EMBOLO  DO TIPO MICROPIPETA  PARA COLETAR  T",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "84798912",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Thermo Scientific"
+      },
+      {
+        "atributo": "ATT_9101",
+        "valor": "Micropipeta"
+      },
+      {
+        "atributo": "ATT_8645",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "Finnpipette F2"
+      },
+      {
+        "atributo": "ATT_10804",
+        "valor": "Transferência de líquidos em laboratórios analíticos"
+      },
+      {
+        "atributo": "ATT_10909",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_9924",
+        "valor": "Dispositivo com corpo plástico e êmbolo interno"
+      }
+    ],
+    "codigosInterno": [
+      "4642090"
+    ]
+  },
+  {
+    "seq": 95,
+    "descricao": "MICROPIPETA, UTILIZADA PARA COLETAR, TRANSFERIR E DISPENSAR VOLUMES PEQUENOS DE LIQUIDO POR MEIO DE DESLOCAMENTO DE AR, PARA USO GERAL EM LABORATORIOS",
+    "denominacao": "4642100   CODIGO  4642100   DISPOSITIVO DE PLASTICO COM EMBOLO  DO TIPO MICROPIPETA  PARA COLETAR  T",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "84798912",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8645",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Thermo Scientific"
+      },
+      {
+        "atributo": "ATT_9924",
+        "valor": "Dispositivo com corpo plástico e êmbolo interno"
+      },
+      {
+        "atributo": "ATT_10804",
+        "valor": "Transferência de líquidos em laboratórios analíticos"
+      },
+      {
+        "atributo": "ATT_10909",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "Finnpipette F2"
+      },
+      {
+        "atributo": "ATT_9101",
+        "valor": "Micropipeta"
+      }
+    ],
+    "codigosInterno": [
+      "4642100"
+    ]
+  },
+  {
+    "seq": 96,
+    "descricao": "MICROPIPETA, UTILIZADA PARA COLETAR, TRANSFERIR E DISPENSAR VOLUMES PEQUENOS DE LIQUIDO POR MEIO DE DESLOCAMENTO DE AR, PARA USO GERAL EM LABORATORIOS",
+    "denominacao": "4642110   CODIGO  4642110   DISPOSITIVO DE PLASTICO COM EMBOLO  DO TIPO MICROPIPETA  PARA COLETAR  T",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "84798912",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Thermo Scientific"
+      },
+      {
+        "atributo": "ATT_10909",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "Finnpipette F2"
+      },
+      {
+        "atributo": "ATT_9924",
+        "valor": "Dispositivo com corpo plástico e êmbolo interno"
+      },
+      {
+        "atributo": "ATT_10804",
+        "valor": "Transferência de líquidos em laboratórios analíticos"
+      },
+      {
+        "atributo": "ATT_8645",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9101",
+        "valor": "Micropipeta"
+      }
+    ],
+    "codigosInterno": [
+      "4642110"
+    ]
+  },
+  {
+    "seq": 97,
+    "descricao": "MICROPIPETA, UTILIZADA PARA COLETAR, TRANSFERIR E DISPENSAR VOLUMES PEQUENOS DE LIQUIDO POR MEIO DE DESLOCAMENTO DE AR, PARA USO GERAL EM LABORATORIOS",
+    "denominacao": "4642130   CODIGO  4642130   DISPOSITIVO DE PLASTICO COM EMBOLO  DO TIPO MICROPIPETA  PARA COLETAR  T",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "84798912",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_9241",
+        "valor": "Finnpipette F2"
+      },
+      {
+        "atributo": "ATT_9924",
+        "valor": "Dispositivo com corpo plástico e êmbolo interno"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Thermo Scientific"
+      },
+      {
+        "atributo": "ATT_9101",
+        "valor": "Micropipeta"
+      },
+      {
+        "atributo": "ATT_10909",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_8645",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10804",
+        "valor": "Transferência de líquidos em laboratórios analíticos"
+      }
+    ],
+    "codigosInterno": [
+      "4642130"
+    ]
+  },
+  {
+    "seq": 98,
+    "descricao": "MICROPIPETA, UTILIZADA PARA COLETAR, TRANSFERIR E DISPENSAR VOLUMES PEQUENOS DE LIQUIDO POR MEIO DE DESLOCAMENTO DE AR, PARA USO GERAL EM LABORATORIOS",
+    "denominacao": "4662010   CODIGO  4662010   DISPOSITIVO DE PLASTICO COM EMBOLO  DO TIPO MICROPIPETA  PARA COLETAR  T",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "84798912",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10804",
+        "valor": "Transferência de líquidos em laboratórios analíticos"
+      },
+      {
+        "atributo": "ATT_8645",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9924",
+        "valor": "Dispositivo com corpo plástico e êmbolo interno"
+      },
+      {
+        "atributo": "ATT_10909",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Thermo Scientific"
+      },
+      {
+        "atributo": "ATT_9101",
+        "valor": "Micropipeta"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "Finnpipette F2"
+      }
+    ],
+    "codigosInterno": [
+      "4662010"
+    ]
+  },
+  {
+    "seq": 99,
+    "descricao": "MICROPIPETA, UTILIZADA PARA COLETAR, TRANSFERIR E DISPENSAR VOLUMES PEQUENOS DE LIQUIDO POR MEIO DE DESLOCAMENTO DE AR, PARA USO GERAL EM LABORATORIOS",
+    "denominacao": "4662020   CODIGO  4662020   DISPOSITIVO DE PLASTICO COM EMBOLO  DO TIPO MICROPIPETA  PARA COLETAR  T",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "84798912",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Thermo Scientific"
+      },
+      {
+        "atributo": "ATT_9924",
+        "valor": "Dispositivo com corpo plástico e êmbolo interno"
+      },
+      {
+        "atributo": "ATT_10804",
+        "valor": "Transferência de líquidos em laboratórios analíticos"
+      },
+      {
+        "atributo": "ATT_9101",
+        "valor": "Micropipeta"
+      },
+      {
+        "atributo": "ATT_8645",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10909",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "Finnpipette F2"
+      }
+    ],
+    "codigosInterno": [
+      "4662020"
+    ]
+  },
+  {
+    "seq": 100,
+    "descricao": "MICROPIPETA, UTILIZADA PARA COLETAR, TRANSFERIR E DISPENSAR VOLUMES PEQUENOS DE LIQUIDO POR MEIO DE DESLOCAMENTO DE AR, PARA USO GERAL EM LABORATORIOS",
+    "denominacao": "4662030   CODIGO  4662030   DISPOSITIVO DE PLASTICO COM EMBOLO  DO TIPO MICROPIPETA  PARA COLETAR  T",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "84798912",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8645",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9101",
+        "valor": "Micropipeta"
+      },
+      {
+        "atributo": "ATT_9924",
+        "valor": "Dispositivo com corpo plástico e êmbolo interno"
+      },
+      {
+        "atributo": "ATT_10804",
+        "valor": "Transferência de líquidos em laboratórios analíticos"
+      },
+      {
+        "atributo": "ATT_10909",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Thermo Scientific"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "Finnpipette F2"
+      }
+    ],
+    "codigosInterno": [
+      "4662030"
+    ]
+  }
+]

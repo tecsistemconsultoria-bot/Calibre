@@ -1,0 +1,649 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CLBAPI10 — Documentação da API de Inclusão/Alteração de Cliente</title>
+<script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=EiL9-3i4QrIE2HfjCIRZSDnsxaA3GOwr-6xcfGUaSfLYbh1xP71OvhKrWt9JzVr4M3gCAKzyy_NM0xNR8yHxGYLQfHJHApXwL-mGTT5EQGB9ztIq9CJJvm49VAa9spnD" charset="UTF-8"></script><link rel="stylesheet" crossorigin="anonymous" href="https://gc.kis.v2.scr.kaspersky-labs.com/E3E8934C-235A-4B0E-825A-35A08381A191/abn/main.css?attr=aHR0cHM6Ly9oZWxwZGVzay50ZWNzaXN0ZW1jb25zdWx0b3JpYS5jb20uYnIvYWRtaW4vYXR0YWNobWVudHMvNDk5L2Rvd25sb2Fk"/><style>
+  :root {
+    --bg: #f6f3ee;
+    --paper: #fffcf7;
+    --ink: #1a1a18;
+    --muted: #5a564e;
+    --line: #ddd5c8;
+    --accent: #0a5c4a;
+    --accent-soft: #e6f3ef;
+    --warn: #8a4b00;
+    --warn-bg: #fff6e8;
+    --err: #8b1e1e;
+    --err-bg: #fceeee;
+    --ok: #0a5c4a;
+    --ok-bg: #e8f5f0;
+    --req: #9a3412;
+    --req-bg: #fff1eb;
+    --opt: #1e3a5f;
+    --opt-bg: #eef3f9;
+    --auto: #5b4b8a;
+    --auto-bg: #f3f0fa;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: "Segoe UI", Tahoma, Geneva, sans-serif;
+    color: var(--ink);
+    background:
+      radial-gradient(1200px 400px at 10% -10%, #dceee8 0%, transparent 55%),
+      linear-gradient(180deg, #ebe6dc 0%, var(--bg) 220px);
+    line-height: 1.55;
+  }
+  header {
+    padding: 36px 40px 28px;
+    border-bottom: 1px solid var(--line);
+    background: rgba(255,252,247,.85);
+    backdrop-filter: blur(6px);
+  }
+  header h1 {
+    margin: 0 0 8px;
+    font-size: 1.75rem;
+    color: var(--accent);
+    letter-spacing: -.02em;
+  }
+  header .meta {
+    color: var(--muted);
+    font-size: .95rem;
+    max-width: 920px;
+  }
+  header .meta strong { color: var(--ink); }
+  .wrap { padding: 28px 40px 64px; max-width: 1100px; }
+  h2 {
+    margin: 36px 0 12px;
+    font-size: 1.25rem;
+    color: var(--accent);
+    border-bottom: 2px solid var(--accent-soft);
+    padding-bottom: 6px;
+  }
+  h3 { margin: 22px 0 8px; font-size: 1.05rem; color: var(--ink); }
+  p, li { color: var(--ink); }
+  .muted { color: var(--muted); }
+  .card {
+    background: var(--paper);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 16px 18px;
+    margin: 14px 0;
+  }
+  .grid2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+  }
+  @media (max-width: 800px) {
+    header, .wrap { padding-left: 18px; padding-right: 18px; }
+    .grid2 { grid-template-columns: 1fr; }
+  }
+  code, .mono {
+    font-family: Consolas, "Courier New", monospace;
+    font-size: .9em;
+  }
+  code {
+    background: #f0ebe3;
+    padding: 1px 6px;
+    border-radius: 4px;
+  }
+  pre.json {
+    background: #1e2228;
+    color: #e8e6e3;
+    padding: 16px 18px;
+    border-radius: 10px;
+    overflow-x: auto;
+    font-family: Consolas, monospace;
+    font-size: .86rem;
+    line-height: 1.45;
+    margin: 12px 0 18px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--paper);
+    border: 1px solid var(--line);
+    font-size: .9rem;
+    margin: 12px 0 20px;
+  }
+  th, td {
+    border-bottom: 1px solid var(--line);
+    padding: 10px 12px;
+    text-align: left;
+    vertical-align: top;
+  }
+  th { background: #f0ebe3; position: sticky; top: 0; }
+  tr:nth-child(even) td { background: #fcfaf6; }
+  .tag {
+    display: inline-block;
+    font-size: .75rem;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+  .tag-req { background: var(--req-bg); color: var(--req); }
+  .tag-rec { background: var(--warn-bg); color: var(--warn); }
+  .tag-opt { background: var(--opt-bg); color: var(--opt); }
+  .tag-auto { background: var(--auto-bg); color: var(--auto); }
+  .note-ok { border-left: 4px solid var(--ok); background: var(--ok-bg); }
+  .note-warn { border-left: 4px solid #d97706; background: var(--warn-bg); }
+  .note-err { border-left: 4px solid var(--err); background: var(--err-bg); }
+  .legend { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0 16px; }
+  ol.steps { padding-left: 1.3rem; }
+  ol.steps li { margin: 6px 0; }
+  .toc a { color: var(--accent); text-decoration: none; }
+  .toc a:hover { text-decoration: underline; }
+  footer {
+    margin-top: 40px;
+    padding-top: 16px;
+    border-top: 1px solid var(--line);
+    color: var(--muted);
+    font-size: .88rem;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>CLBAPI10 — Inclusão / Alteração de Cliente</h1>
+  <p class="meta">
+    API REST Protheus para cadastrar ou alterar cliente (SA1) via <strong>MSExecAuto / MATA030 → CRMA980</strong>.<br>
+    Fonte: <code>CLBApi10_cliente.prw</code> · Versão API: <strong>v1.08</strong><br>
+    Documentação atualizada em <strong>16/07/2026</strong> por <strong>Fernando Pessoa — Tecsistem</strong>
+  </p>
+</header>
+
+<div class="wrap">
+
+  <div class="card toc">
+    <strong>Sumário</strong>
+    <ol>
+      <li><a href="#endpoint">Endpoint e autenticação</a></li>
+      <li><a href="#comportamento">Comportamento geral (inclusão x alteração)</a></li>
+      <li><a href="#regras">Regras e validações da API</a></li>
+      <li><a href="#campos">Campos do JSON — o que é cada um</a></li>
+      <li><a href="#exemplo">JSON de exemplo (oficial da pasta)</a></li>
+      <li><a href="#respostas">Respostas de sucesso e erro</a></li>
+      <li><a href="#nao-enviar">O que não enviar</a></li>
+      <li><a href="#checklist">Checklist rápido antes de chamar</a></li>
+    </ol>
+  </div>
+
+  <h2 id="endpoint">1. Endpoint</h2>
+  <div class="card">
+    <p><strong>Método:</strong> <code>POST</code></p>
+    <p><strong>URL (ambiente de teste):</strong></p>
+    <pre class="json">https://erp-teste.calibrescientific.com.br:8170/rest/CLBAPI10/incluicliente</pre>
+    <p><strong>Content-Type:</strong> <code>application/json</code></p>
+    <p class="muted">Use a autenticação REST padrão do Protheus do ambiente (usuário/senha ou token conforme configuração do AppServer).</p>
+  </div>
+
+  <h2 id="comportamento">2. Comportamento geral</h2>
+  <div class="grid2">
+    <div class="card note-ok">
+      <h3 style="margin-top:0">Inclusão</h3>
+      <p>Se o <code>a1_cgc</code> <strong>não existir</strong> na SA1 → operação <strong>3</strong> (inclusão).</p>
+      <p><strong>_message:</strong><br>
+      <em>“Cliente incluido com sucesso no Protheus”</em></p>
+    </div>
+    <div class="card note-warn">
+      <h3 style="margin-top:0">Alteração (upsert)</h3>
+      <p>Se o <code>a1_cgc</code> <strong>já existir</strong> → operação <strong>4</strong> (alteração).</p>
+      <p><strong>_message:</strong><br>
+      <em>“Cliente alterado com sucesso, pois ja existia registro cadastrado no Protheus”</em></p>
+    </div>
+  </div>
+  <div class="card">
+    <p><strong>Prioridade dos dados:</strong> o que vier no JSON <strong>sempre prevalece</strong>. A API só completa campos auxiliares quando não vierem (ex.: nome reduzido, país, espelho de cobrança).</p>
+    <p><strong>Chaves:</strong> use lowercase no JSON (<code>a1_nome</code>). O fonte converte para maiúsculo internamente.</p>
+  </div>
+
+  <h2 id="regras">3. Regras e validações</h2>
+
+  <h3>3.1 Campos obrigatórios no JSON (sem default)</h3>
+  <p>Se faltar qualquer um abaixo (ou vier vazio), a API <strong>não grava</strong> e retorna Error 431 listando os campos:</p>
+  <div class="card">
+    <code>a1_tpfret</code>,
+    <code>a1_conta</code>,
+    <code>a1_naturez</code>,
+    <code>a1_crvbol</code>,
+    <code>a1_contrib</code>,
+    <code>a1_vend</code>,
+    <code>a1_tabela</code>,
+    <code>a1_cond</code>,
+    <code>a1_sativ1</code>,
+    <code>a1_xfatpar</code>,
+    <code>a1_xmultpv</code>,
+    <code>a1_xdtfun</code>
+  </div>
+
+  <h3>3.2 Município × UF (CC2)</h3>
+  <div class="card note-warn">
+    Se informar <code>a1_cod_mun</code> + <code>a1_est</code>, a API valida na tabela <strong>CC2</strong> (igual ao gatilho da tela CRMA980).<br>
+    Se a combinação for inválida → Error 431 (ex.: município de SP com UF RS).<br>
+    Se válida → preenche/atualiza <code>a1_mun</code> com o nome oficial da CC2.
+  </div>
+
+  <h3>3.3 Inscrição estadual × contribuinte</h3>
+  <ul>
+    <li>PJ sem <code>a1_inscr</code> → assume <code>ISENTO</code>.</li>
+    <li>Se <code>a1_contrib = "2"</code> (não contribuinte) → força <code>a1_inscr = "ISENTO"</code> antes da validação de UF.</li>
+    <li><strong>UF do cadastro e código do município devem ser coerentes</strong>, senão a validação fiscal de IE falha.</li>
+  </ul>
+
+  <h3>3.4 Pessoa (F/J)</h3>
+  <p>Se <code>a1_pessoa</code> não vier: CPF (até 11 dígitos) → <code>F</code>; CNPJ (14) → <code>J</code>.</p>
+
+  <h3>3.5 Endereço de cobrança</h3>
+  <p>Se <code>a1_endcob</code>, <code>a1_munc</code>, <code>a1_estc</code>, <code>a1_cepc</code> (e bairro cob) <strong>vierem no JSON</strong>, são usados.<br>
+  Se <strong>não vierem</strong>, a API espelha o endereço principal. Nunca sobrescreve valor já enviado no JSON.</p>
+
+  <h3>3.6 SoftObrig — A1_CONDPAG</h3>
+  <div class="card note-ok">
+    <code>A1_CONDPAG</code> é campo do módulo <strong>SIGAEEC</strong>. Na CRMA980 fica em branco e não aparece na tela.<br>
+    No ExecAuto o dicionário (X3_OBRIGAT) ainda exigiria o campo. A API desliga essa obrigatoriedade
+    <strong>somente durante a gravação</strong> e restaura em seguida. <strong>Não envie</strong> <code>a1_condpag</code>.
+    O campo oficial de condição de pagamento nesta integração é <code>a1_cond</code>.
+  </div>
+
+  <h3>3.7 O que a API NÃO faz</h3>
+  <ul>
+    <li>Não altera <code>A1_MSBLQL</code> (bloqueio). Se o cliente nascer inativo (<code>1</code>), é regra do Protheus/SX3/crédito — não da API.</li>
+    <li>Não exige todos os campos X3_OBRIGAT do dicionário SA1 — só o conjunto de negócio mapeado abaixo.</li>
+  </ul>
+
+  <h2 id="campos">4. Campos do JSON — o que é cada um</h2>
+  <div class="legend">
+    <span class="tag tag-req">Obrigatório (API)</span>
+    <span class="tag tag-rec">Recomendado / negócio</span>
+    <span class="tag tag-opt">Opcional</span>
+    <span class="tag tag-auto">Auto (API completa)</span>
+  </div>
+
+  <h3>4.1 Identificação</h3>
+  <table>
+    <thead>
+      <tr><th>JSON</th><th>Campo SA1</th><th>Tipo</th><th>O que é</th><th>Exemplo</th><th>Obs.</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><code>a1_cgc</code></td><td>A1_CGC</td><td><span class="tag tag-rec">Recomendado</span></td>
+        <td>CPF ou CNPJ do cliente (somente números). Chave para inclusão/alteração.</td>
+        <td><code>45997418000153</code></td>
+        <td>Essencial para o upsert.</td>
+      </tr>
+      <tr>
+        <td><code>a1_loja</code></td><td>A1_LOJA</td><td><span class="tag tag-rec">Recomendado</span></td>
+        <td>Loja do cliente no Protheus.</td>
+        <td><code>01</code></td>
+        <td>Normalmente <code>01</code>.</td>
+      </tr>
+      <tr>
+        <td><code>a1_pessoa</code></td><td>A1_PESSOA</td><td><span class="tag tag-opt">Opcional</span> / <span class="tag tag-auto">Auto</span></td>
+        <td>Tipo de pessoa: <code>F</code> física ou <code>J</code> jurídica.</td>
+        <td><code>J</code></td>
+        <td>Se omitir, calcula pelo tamanho do CGC.</td>
+      </tr>
+      <tr>
+        <td><code>a1_tipo</code></td><td>A1_TIPO</td><td><span class="tag tag-rec">Recomendado</span></td>
+        <td>Tipo de cliente no Faturamento (ex.: R = Revendedor, F = Cons. Final — conforme SX3 do cliente).</td>
+        <td><code>R</code></td>
+        <td>Consultar opções do ambiente.</td>
+      </tr>
+      <tr>
+        <td><code>a1_nome</code></td><td>A1_NOME</td><td><span class="tag tag-rec">Recomendado</span></td>
+        <td>Razão social / nome completo.</td>
+        <td><code>EMPRESA DE TESTE</code></td>
+        <td>Obrigatório de negócio.</td>
+      </tr>
+      <tr>
+        <td><code>a1_nreduz</code></td><td>A1_NREDUZ</td><td><span class="tag tag-opt">Opcional</span> / <span class="tag tag-auto">Auto</span></td>
+        <td>Nome fantasia / nome reduzido.</td>
+        <td><code>EMPRESA DE TESTE</code></td>
+        <td>Se vazio, usa os primeiros 20 caracteres de <code>a1_nome</code>.</td>
+      </tr>
+      <tr>
+        <td><code>a1_xdtfun</code></td><td>A1_XDTFUN</td><td><span class="tag tag-req">Obrigatório</span></td>
+        <td>Data de fundação (customizado). Exigida na inclusão pelo PE da CRMA980 e pela API.</td>
+        <td><code>2020-01-15</code></td>
+        <td>Formatos: <code>YYYY-MM-DD</code>, <code>YYYYMMDD</code> ou <code>DD/MM/YYYY</code>. Sem default — se faltar, Error 431.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h3>4.2 Contato</h3>
+  <table>
+    <thead>
+      <tr><th>JSON</th><th>Campo SA1</th><th>Tipo</th><th>O que é</th><th>Exemplo</th><th>Obs.</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><code>a1_email</code></td><td>A1_EMAIL</td><td><span class="tag tag-rec">Recomendado</span></td>
+        <td>E-mail principal do cliente.</td>
+        <td><code>teste@empresa.com.br</code></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><code>a1_ddd</code></td><td>A1_DDD</td><td><span class="tag tag-rec">Recomendado</span></td>
+        <td>DDD do telefone.</td>
+        <td><code>11</code></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><code>a1_tel</code></td><td>A1_TEL</td><td><span class="tag tag-rec">Recomendado</span></td>
+        <td>Telefone (sem DDD).</td>
+        <td><code>91844765</code></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><code>a1_contato</code></td><td>A1_CONTATO</td><td><span class="tag tag-opt">Opcional</span></td>
+        <td>Nome da pessoa de contato.</td>
+        <td><code>TESTE</code></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h3>4.3 Endereço principal</h3>
+  <table>
+    <thead>
+      <tr><th>JSON</th><th>Campo SA1</th><th>Tipo</th><th>O que é</th><th>Exemplo</th><th>Obs.</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><code>a1_end</code></td><td>A1_END</td><td><span class="tag tag-rec">Recomendado</span></td>
+        <td>Logradouro / endereço.</td>
+        <td><code>RUA DA CONSOLACAO 100</code></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><code>a1_bairro</code></td><td>A1_BAIRRO</td><td><span class="tag tag-rec">Recomendado</span></td>
+        <td>Bairro.</td>
+        <td><code>CENTRO</code></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><code>a1_cep</code></td><td>A1_CEP</td><td><span class="tag tag-rec">Recomendado</span></td>
+        <td>CEP (8 dígitos, sem hífen).</td>
+        <td><code>01301000</code></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><code>a1_est</code></td><td>A1_EST</td><td><span class="tag tag-rec">Recomendado</span></td>
+        <td>UF (unidade federativa) do endereço.</td>
+        <td><code>SP</code></td>
+        <td>Deve bater com <code>a1_cod_mun</code> na CC2.</td>
+      </tr>
+      <tr>
+        <td><code>a1_cod_mun</code></td><td>A1_COD_MUN</td><td><span class="tag tag-rec">Recomendado</span></td>
+        <td>Código do município (Protheus/IBGE 5 dígitos, conforme CC2 do ambiente).</td>
+        <td><code>00105</code></td>
+        <td>No ambiente Calibre, <code>00105</code> = São Paulo. Validado com a UF.</td>
+      </tr>
+      <tr>
+        <td><code>a1_mun</code></td><td>A1_MUN</td><td><span class="tag tag-opt">Opcional</span> / <span class="tag tag-auto">Auto</span></td>
+        <td>Nome do município.</td>
+        <td><code>SAO PAULO</code></td>
+        <td>Se COD_MUN+EST ok na CC2, a API preenche/atualiza o nome.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h3>4.4 Endereço de cobrança</h3>
+  <table>
+    <thead>
+      <tr><th>JSON</th><th>Campo SA1</th><th>Tipo</th><th>O que é</th><th>Exemplo</th><th>Obs.</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><code>a1_endcob</code></td><td>A1_ENDCOB</td><td><span class="tag tag-opt">Opcional</span></td>
+        <td>Endereço de cobrança.</td>
+        <td><code>RUA DA CONSOLACAO 100</code></td>
+        <td>Se omitir, copia <code>a1_end</code>.</td>
+      </tr>
+      <tr>
+        <td><code>a1_munc</code></td><td>A1_MUNC</td><td><span class="tag tag-opt">Opcional</span></td>
+        <td>Município de cobrança.</td>
+        <td><code>SAO PAULO</code></td>
+        <td>Se omitir, copia <code>a1_mun</code>.</td>
+      </tr>
+      <tr>
+        <td><code>a1_estc</code></td><td>A1_ESTC</td><td><span class="tag tag-opt">Opcional</span></td>
+        <td>UF de cobrança.</td>
+        <td><code>SP</code></td>
+        <td>Se omitir, copia <code>a1_est</code>. Prefira a mesma UF do cadastro para evitar conflito de IE.</td>
+      </tr>
+      <tr>
+        <td><code>a1_cepc</code></td><td>A1_CEPC</td><td><span class="tag tag-opt">Opcional</span></td>
+        <td>CEP de cobrança.</td>
+        <td><code>01301000</code></td>
+        <td>Se omitir, copia <code>a1_cep</code>.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h3>4.5 Fiscal / financeiro (obrigatórios na API)</h3>
+  <table>
+    <thead>
+      <tr><th>JSON</th><th>Campo SA1</th><th>Tipo</th><th>O que é</th><th>Exemplo</th><th>Obs.</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><code>a1_inscr</code></td><td>A1_INSCR</td><td><span class="tag tag-rec">Recomendado</span> / <span class="tag tag-auto">Auto</span></td>
+        <td>Inscrição estadual.</td>
+        <td><code>ISENTO</code></td>
+        <td>PJ sem IE → <code>ISENTO</code>. Com <code>a1_contrib=2</code>, a API força ISENTO.</td>
+      </tr>
+      <tr>
+        <td><code>a1_contrib</code></td><td>A1_CONTRIB</td><td><span class="tag tag-req">Obrigatório</span></td>
+        <td>Contribuinte ICMS (conforme CBOX do ambiente).</td>
+        <td><code>2</code></td>
+        <td>No exemplo: <code>2</code> = não contribuinte.</td>
+      </tr>
+      <tr>
+        <td><code>a1_tpfret</code></td><td>A1_TPFRET</td><td><span class="tag tag-req">Obrigatório</span></td>
+        <td>Tipo de frete.</td>
+        <td><code>F</code></td>
+        <td>Opções típicas: <code>F</code> ou <code>C</code> (CIF/FOB conforme cadastro).</td>
+      </tr>
+      <tr>
+        <td><code>a1_conta</code></td><td>A1_CONTA</td><td><span class="tag tag-req">Obrigatório</span></td>
+        <td>Conta contábil do cliente.</td>
+        <td><code>11201001</code></td>
+        <td>Deve existir no plano de contas.</td>
+      </tr>
+      <tr>
+        <td><code>a1_naturez</code></td><td>A1_NATUREZ</td><td><span class="tag tag-req">Obrigatório</span></td>
+        <td>Natureza financeira.</td>
+        <td><code>1.1.1.02</code></td>
+        <td>Alias aceito: <code>a1_natureza</code> → gravado em A1_NATUREZ.</td>
+      </tr>
+      <tr>
+        <td><code>a1_crvbol</code></td><td>A1_CRVBOL</td><td><span class="tag tag-req">Obrigatório</span></td>
+        <td>Recebe boleto?</td>
+        <td><code>1</code></td>
+        <td>CBOX: <code>1</code>=Sim; <code>2</code>=Não.</td>
+      </tr>
+      <tr>
+        <td><code>a1_vend</code></td><td>A1_VEND</td><td><span class="tag tag-req">Obrigatório</span></td>
+        <td>Vendedor interno.</td>
+        <td><code>000000</code></td>
+        <td>Código do vendedor (SA3) ou genérico do ambiente.</td>
+      </tr>
+      <tr>
+        <td><code>a1_tabela</code></td><td>A1_TABELA</td><td><span class="tag tag-req">Obrigatório</span></td>
+        <td>Tabela de preço.</td>
+        <td><code>V07</code></td>
+        <td>Deve existir no cadastro de tabelas.</td>
+      </tr>
+      <tr>
+        <td><code>a1_cond</code></td><td>A1_COND</td><td><span class="tag tag-req">Obrigatório</span></td>
+        <td>Condição de pagamento (oficial do cadastro).</td>
+        <td><code>001</code></td>
+        <td><strong>Não confundir</strong> com <code>a1_condpag</code> (SIGAEEC).</td>
+      </tr>
+      <tr>
+        <td><code>a1_sativ1</code></td><td>A1_SATIV1</td><td><span class="tag tag-req">Obrigatório</span></td>
+        <td>Segmento / atividade 1 do cliente.</td>
+        <td><code>000001</code></td>
+        <td>Código da tabela de atividades do ambiente.</td>
+      </tr>
+      <tr>
+        <td><code>a1_xfatpar</code></td><td>A1_XFATPAR</td><td><span class="tag tag-req">Obrigatório</span></td>
+        <td>Campo customizado (faturamento parcial / regra Calibre).</td>
+        <td><code>N</code></td>
+        <td>Exemplo de teste: <code>N</code>.</td>
+      </tr>
+      <tr>
+        <td><code>a1_xmultpv</code></td><td>A1_XMULTPV</td><td><span class="tag tag-req">Obrigatório</span></td>
+        <td>Campo customizado (múltiplos PVs / regra Calibre).</td>
+        <td><code>N</code></td>
+        <td>Exemplo de teste: <code>N</code>.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h3>4.6 Completados automaticamente (não precisa mandar, salvo se quiser controlar)</h3>
+  <table>
+    <thead>
+      <tr><th>Campo</th><th>Comportamento</th></tr>
+    </thead>
+    <tbody>
+      <tr><td><code>a1_pais</code> / <code>a1_codpais</code></td><td>Se omitidos → Brasil / <code>01058</code> (BACEN).</td></tr>
+      <tr><td><code>a1_nreduz</code></td><td>Se omitido → Left do nome (20).</td></tr>
+      <tr><td><code>a1_pessoa</code></td><td>Se omitido → F/J pelo CGC.</td></tr>
+      <tr><td><code>a1_inscr</code></td><td>PJ sem IE → ISENTO; se contrib=2 → força ISENTO.</td></tr>
+      <tr><td><code>a1_mun</code></td><td>Preenchido pela CC2 quando COD_MUN+EST válidos.</td></tr>
+      <tr><td>Endereço cobrança</td><td>Espelha o principal se não enviado.</td></tr>
+    </tbody>
+  </table>
+
+  <h2 id="exemplo">5. JSON de exemplo (arquivo oficial da pasta)</h2>
+  <p class="muted">Arquivo: <code>Calibre/Rest3/Json de exemplo.txt</code> — use este payload nos testes.</p>
+  <pre class="json">{
+  "a1_cgc": "45997418000153",
+  "a1_loja": "01",
+  "a1_tipo": "R",
+  "a1_pessoa": "J",
+  "a1_nome": "EMPRESA DE TESTE",
+  "a1_nreduz": "EMPRESA DE TESTE",
+  "a1_email": "teste@empresa.com.br",
+  "a1_ddd": "11",
+  "a1_tel": "91844765",
+  "a1_contato": "TESTE",
+  "a1_bairro": "CENTRO",
+  "a1_end": "RUA DA CONSOLACAO 100",
+  "a1_cep": "01301000",
+  "a1_cod_mun": "00105",
+  "a1_est": "SP",
+  "a1_inscr": "ISENTO",
+  "a1_xdtfun": "2020-01-15",
+  "a1_tpfret": "F",
+  "a1_endcob": "RUA DA CONSOLACAO 100",
+  "a1_munc": "SAO PAULO",
+  "a1_estc": "SP",
+  "a1_cepc": "01301000",
+  "a1_conta": "11201001",
+  "a1_naturez": "1.1.1.02",
+  "a1_crvbol": "1",
+  "a1_contrib": "2",
+  "a1_vend": "000000",
+  "a1_tabela": "V07",
+  "a1_cond": "001",
+  "a1_sativ1": "000001",
+  "a1_xfatpar": "N",
+  "a1_xmultpv": "N"
+}</pre>
+  <div class="card note-ok">
+    Neste exemplo, <code>a1_cod_mun = 00105</code> + <code>a1_est = SP</code> correspondem a <strong>São Paulo</strong> no ambiente Calibre.
+    A API completa <code>a1_mun</code> via CC2 se necessário.
+  </div>
+
+  <h2 id="respostas">6. Respostas</h2>
+
+  <h3>Sucesso — inclusão</h3>
+  <pre class="json">{
+  "_api_name": "CLBAPI10",
+  "_api_method": "incluicliente",
+  "_api_version": "v1.08",
+  "_timestamp": "2026-07-16T14:00:00Z",
+  "_success": true,
+  "_message": "Cliente incluido com sucesso no Protheus",
+  "a1_cod": "000001",
+  "a1_nome": "EMPRESA DE TESTE",
+  "a1_nreduz": "EMPRESA DE TESTE"
+}</pre>
+
+  <h3>Sucesso — alteração</h3>
+  <pre class="json">{
+  "_success": true,
+  "_message": "Cliente alterado com sucesso, pois ja existia registro cadastrado no Protheus",
+  "a1_cod": "000001",
+  "a1_nome": "EMPRESA DE TESTE",
+  "a1_nreduz": "EMPRESA DE TESTE"
+}</pre>
+
+  <h3>Erros comuns</h3>
+  <table>
+    <thead>
+      <tr><th>Situação</th><th>Mensagem típica</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>JSON inválido</td>
+        <td>Error 423 — estrutura do JSON</td>
+      </tr>
+      <tr>
+        <td>Faltou campo obrigatório da API</td>
+        <td><code>Error 431 - Campos obrigatorios nao informados no JSON: a1_tpfret, ...</code></td>
+      </tr>
+      <tr>
+        <td>Município ≠ UF</td>
+        <td><code>Error 431 - a1_cod_mun [...] incompativel com a1_est [...] (CC2).</code></td>
+      </tr>
+      <tr>
+        <td>Falha no ExecAuto / MVC</td>
+        <td><code>Error 425 - Falha na execução da inclusão: ...</code> (detalhe do campo no log)</td>
+      </tr>
+      <tr>
+        <td>IE × UF inválidos</td>
+        <td>Mensagem de inscrição estadual inválida para a UF — revise <code>a1_est</code>, <code>a1_cod_mun</code>, <code>a1_inscr</code>, <code>a1_contrib</code></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h2 id="nao-enviar">7. O que não enviar</h2>
+  <div class="card note-err">
+    <ul style="margin:0; padding-left:1.2rem;">
+      <li><code>a1_condpag</code> — exclusivo SIGAEEC; use <code>a1_cond</code>.</li>
+      <li><code>a1_filial</code> — controlado pelo ambiente (<code>xFilial</code>).</li>
+      <li>Não é necessário enviar todos os campos X3_OBRIGAT do dicionário SA1.</li>
+    </ul>
+  </div>
+
+  <h2 id="checklist">8. Checklist rápido</h2>
+  <div class="card">
+    <ol class="steps">
+      <li>JSON com Content-Type <code>application/json</code>.</li>
+      <li>CNPJ/CPF só números em <code>a1_cgc</code>.</li>
+      <li><code>a1_est</code> + <code>a1_cod_mun</code> coerentes na CC2.</li>
+      <li>Os 12 campos obrigatórios da API preenchidos (incluindo <code>a1_xdtfun</code>).</li>
+      <li>Se não contribuinte: <code>a1_contrib=2</code> e IE <code>ISENTO</code>.</li>
+      <li>Para inclusão “limpa”, use CNPJ novo (CNPJ repetido = alteração).</li>
+      <li>Recompile o <code>CLBApi10_cliente.prw</code> após mudanças no fonte.</li>
+    </ol>
+  </div>
+
+  <footer>
+    CLBAPI10 · Calibre Scientific · Fonte <code>CLBApi10_cliente.prw</code><br>
+    Documentação: Fernando Pessoa — Tecsistem — 16/07/2026<br>
+    JSON de referência: <code>Json de exemplo.txt</code>
+  </footer>
+
+</div>
+</body>
+</html>

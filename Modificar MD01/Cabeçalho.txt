@@ -1,0 +1,67 @@
+XDESC    = ""   
+XTIPO    = SPACE(2)  
+XGRUPO   = SPACE(5)
+XQE= SB1->B1_QE
+XPE= SB1->B1_PE
+xESTSEG = SB1->B1_ESTSEG
+xESTMULT = SB1->B1_LE
+xESTMIN = SB1->B1_LM
+xESTNC = ("SB2")+SB1->B1_COD+"NC") -> SB2->B2_QATU
+xESTATU = (SB2->B2_LOCAL) <> "55" -> SB2->B2_QATU
+xCONMED =
+xCONMES =
+xCUSTO = SB9->B9_CM1
+xTIPE = B1_TIPE
+dDATAP = CTOD("  / /  ")
+
+Desc.Comp. (abrir box ao clicar)
+UM
+MRP Item
+País Origem
+Código Compra
+Preço NET (tabela)
+Origem
+Marca
+NCM
+CAS
+Modal Transporte MRP
+Leadtime Fornecedor (Air)
+Leadtime Fornecedor (Sea)
+Perigo
+Classe de Risco
+
+
+Oi Vinícius, boa tarde, tudo bem?
+
+ 
+
+Essa é a demanda ‘Ajustar a tela MD01 p/Calibre’ (Análise de Ruptura de Estoque).
+
+ 
+
+Seguem os ajustes necessários:
+
+ 
+
+Não utilizaremos campos da tabela SBZ; utilizaremos os campos equivalentes da SB1
+Remover campo BZ_ZZPLANER
+Alterar campo C6_ZZDTPRO -> C6_ENTREG
+ 
+
+Cabeçalho
+
+Alterar ‘xESTNC -> será xEST55’, e ajustar a regra do filtro
+Ajustar regra do filtro ‘xESTATU’
+ 
+
+Entradas (soma na data do evento)
+
+Produção
+Pedido de Compra (considerar PC e AE; identificando o tipo do documento)
+Atenção: só mostrar PC nacional (C7_NUMIMP = vazio); os PCs de itens importados, serão mostradas as POs
+Purchase Order -> acrescentar; não faz parte da tela atual
+ 
+
+Saídas (subtrai na data do C6_ENTREG)
+
+Pedidos de vendas pendentes (com ou sem bloqueio)

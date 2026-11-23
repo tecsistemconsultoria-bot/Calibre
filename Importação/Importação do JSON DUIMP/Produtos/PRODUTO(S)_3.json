@@ -1,0 +1,3232 @@
+[
+  {
+    "seq": 1,
+    "descricao": "CONJUNTO COMPOSTO POR 2 DISPOSITIVOS DE PLASTICO DO TIPO MICROPIPETA ELETRONICA, 2 SUPORTES DE PLASTICO PARA MICROPIPETA, 1 CAIXA DE PONTEIRAS DE 5 ML, 1 PACOTE DE AMOSTRAS DE PONTEIRAS FINNTIP E MATERIAIS IMPRESSOS PARA AUXILIO EM MANUSEIO DO INSTRUMENTO, PARA USO GERAL EM LABORATORIOS",
+    "denominacao": "4700490   CODIGO  4700490   KIT COMPOSTO POR 2 DISPOSITIVOS DE PLASTICO DO TIPO MICROPIPETA ELETRONI",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "84798912",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8645",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Thermo Scientific"
+      },
+      {
+        "atributo": "ATT_9101",
+        "valor": "Micropipeta"
+      },
+      {
+        "atributo": "ATT_9924",
+        "valor": "Dispositivo com corpo plástico e êmbolo interno"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "Finnpipette Novus"
+      },
+      {
+        "atributo": "ATT_10909",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_10804",
+        "valor": "Transferência de líquidos em laboratórios analíticos"
+      }
+    ],
+    "codigosInterno": [
+      "4700490"
+    ]
+  },
+  {
+    "seq": 2,
+    "descricao": "5030030-1, SENDO: PONTEIRAS, FABRICADAS A PARTIR DE POLIPROPILENO VIRGEM, DESTINADO EXCLUSIVAMENTE PARA USO LABORATORIAL PARA ANALISE FISICA/QUIMICA.",
+    "denominacao": "5030030 1   OUTRAS PARTE MAQUINAS E APARELHOS MECANICOS COM FUNCAO PROPRIA  NAO ESPECIFICADOS NEM CO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "39269040",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10810",
+        "valor": "Polipropileno virgem"
+      },
+      {
+        "atributo": "ATT_9010",
+        "valor": "Uso laboratorial para análise físico-química"
+      },
+      {
+        "atributo": "ATT_10036",
+        "valor": "999"
+      }
+    ],
+    "codigosInterno": [
+      "5030030-1"
+    ]
+  },
+  {
+    "seq": 3,
+    "descricao": "5030054-1, SENDO: RACK VAZIO PARA PONTEIRAS 10 ΜL LONGAS. CAIXA PLASTICA PARA ACOMODACAO DE BANDEJA COM 96 PONTEIRAS PARA MICROPIPETAS DE 10 ΜL LONGAS. MARCA AHN CAPP.",
+    "denominacao": "5030054 1   5030054 1  CODIGO  5030054 1   RACK VAZIO P PONTEIRAS 10UL LONGA   CAIXA  PLASTICA PARA ",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "39269040",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10036",
+        "valor": "999"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10810",
+        "valor": "Plástico"
+      },
+      {
+        "atributo": "ATT_9010",
+        "valor": "Uso laboratorial para análise físico-química"
+      }
+    ],
+    "codigosInterno": [
+      "5030054-1"
+    ]
+  },
+  {
+    "seq": 4,
+    "descricao": "5030062-1, SENDO: PONTEIRAS, FABRICADAS A PARTIR DE POLIPROPILENO VIRGEM, DESTINADO EXCLUSIVAMENTE PARA USO LABORATORIAL PARA ANALISE FISICA/QUIMICA.",
+    "denominacao": "5030062 1   5030062 1  CODIGO  5030062 1   OUTRAS PARTES DE MAQUINAS E APARELHOS  MECANICOS COM FUNC",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "39269040",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10810",
+        "valor": "Polipropileno virgem"
+      },
+      {
+        "atributo": "ATT_9010",
+        "valor": "Uso laboratorial para análise físico-química"
+      },
+      {
+        "atributo": "ATT_10036",
+        "valor": "999"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "5030062-1"
+    ]
+  },
+  {
+    "seq": 5,
+    "descricao": "5043-1190, SENDO: VALVULA DE ALIVIO DE TAMPA DE SOLVENTE UTILIZADA EM CROMATOGRAFO LIQUIDO, MARCA AGILENT, PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "5043 1190   CODIGO  5043 1190   DESCRICAO  VALVULA ALIVIO STAY SAFE PTFE TIRA TEMPO 1UN   FINALIDADE",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "84814000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10356",
+        "valor": "4"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9516",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_10904",
+        "valor": "1"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "5043-1190"
+      },
+      {
+        "atributo": "ATT_10317",
+        "valor": "Automática"
+      },
+      {
+        "atributo": "ATT_8841",
+        "valor": "Válvula de respiro"
+      },
+      {
+        "atributo": "ATT_9503",
+        "valor": "5"
+      },
+      {
+        "atributo": "ATT_9329",
+        "valor": "Aço, plástico"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "AGILENT"
+      },
+      {
+        "atributo": "ATT_9578",
+        "valor": "Atmosférica"
+      }
+    ],
+    "codigosInterno": [
+      "5043-1190"
+    ]
+  },
+  {
+    "seq": 6,
+    "descricao": "5062-8522, SENDO: TUBO CAPILAR, PARTE RECONHECIVEL COMO DE USO EXCLUSIVO EM APARELHOS PARA ANALISES FISICAS OU QUIMICAS, UTILIZADA PARA ANALISES CROMATOGRAFICAS.",
+    "denominacao": "5062 8522   CODIGO  5062 8522   TUBO CAPILAR DE PLASTICO DE ALTA PERFORMANCE POLI ETER ETER CETONA  ",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "5062-8522"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "5062-8522"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      }
+    ],
+    "codigosInterno": [
+      "5062-8522"
+    ]
+  },
+  {
+    "seq": 7,
+    "descricao": "5130061-1, SENDO: PONTEIRAS, FABRICADAS A PARTIR DE POLIPROPILENO VIRGEM, DESTINADO EXCLUSIVAMENTE PARA USO LABORATORIAL PARA ANALISE FISICA/QUIMICA.",
+    "denominacao": "5130061 1   PONTEIRAS EXPELL  VOLUME DE 0 1 10 UL  LONGA  ESTERIL  COM FILTRO    PONTEIRAS DE BAIXA ",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "39269040",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9010",
+        "valor": "Uso laboratorial para análise físico-química"
+      },
+      {
+        "atributo": "ATT_10810",
+        "valor": "Polipropileno virgem"
+      },
+      {
+        "atributo": "ATT_10036",
+        "valor": "999"
+      }
+    ],
+    "codigosInterno": [
+      "5130061-1"
+    ]
+  },
+  {
+    "seq": 8,
+    "descricao": "5130066-1, SENDO: PONTEIRAS, FABRICADAS A PARTIR DE POLIPROPILENO VIRGEM, DESTINADO EXCLUSIVAMENTE PARA USO LABORATORIAL PARA ANALISE FISICA/QUIMICA.",
+    "denominacao": "5130066 1   OUTRAS MAQUINAS E APARELHOS MECANICOS COM FUNCAO PROPRIA  NAO ESPECIFICADOS NEM COMPREEN",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "39269040",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_9010",
+        "valor": "Uso laboratorial para análise físico-química"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10810",
+        "valor": "Polipropileno virgem"
+      },
+      {
+        "atributo": "ATT_10036",
+        "valor": "999"
+      }
+    ],
+    "codigosInterno": [
+      "5130066-1"
+    ]
+  },
+  {
+    "seq": 9,
+    "descricao": "5130090-1, SENDO: PONTEIRAS, FABRICADAS A PARTIR DE POLIPROPILENO VIRGEM, DESTINADO EXCLUSIVAMENTE PARA USO LABORATORIAL PARA ANALISE FISICA/QUIMICA.",
+    "denominacao": "5130090 1   OUTRAS MAQUINAS E APARELHOS MECANICOS COM FUNCAO PROPRIA  NAO ESPECIFICADOS NEM COMPREEN",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "39269040",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10036",
+        "valor": "999"
+      },
+      {
+        "atributo": "ATT_9010",
+        "valor": "Uso laboratorial para análise físico-química"
+      },
+      {
+        "atributo": "ATT_10810",
+        "valor": "Polipropileno virgem"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "5130090-1"
+    ]
+  },
+  {
+    "seq": 10,
+    "descricao": "5130090C, SENDO: PONTEIRAS, FABRICADAS A PARTIR DE POLIPROPILENO VIRGEM, DESTINADO EXCLUSIVAMENTE PARA USO LABORATORIAL PARA ANALISE FISICA/QUIMICA.",
+    "denominacao": "5130090C   PONTEIRAS EXPELL    VOLUME DE 1 200 UL  ESTERIL  COM FILTRO    PONTEIRAS DE BAIXA RETENCA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "39269040",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10810",
+        "valor": "Polipropileno virgem"
+      },
+      {
+        "atributo": "ATT_9010",
+        "valor": "Uso laboratorial para análise físico-química"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10036",
+        "valor": "999"
+      }
+    ],
+    "codigosInterno": [
+      "5130090C"
+    ]
+  },
+  {
+    "seq": 11,
+    "descricao": "5130130, SENDO: PONTEIRAS, FABRICADAS A PARTIR DE POLIPROPILENO VIRGEM, DESTINADO EXCLUSIVAMENTE PARA USO LABORATORIAL PARA ANALISE FISICA/QUIMICA.",
+    "denominacao": "5130130   5130130  CODIGO  5130130   OUTRAS PARTES DE MAQUINAS E APARELHOS MECANICOS  COM FUNCAO PRO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "39269040",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10810",
+        "valor": "Polipropileno virgem"
+      },
+      {
+        "atributo": "ATT_9010",
+        "valor": "Uso laboratorial para análise físico-química"
+      },
+      {
+        "atributo": "ATT_10036",
+        "valor": "999"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "5130130"
+    ]
+  },
+  {
+    "seq": 12,
+    "descricao": "5130140-1, SENDO: PONTEIRAS, FABRICADAS A PARTIR DE POLIPROPILENO VIRGEM, DESTINADO EXCLUSIVAMENTE PARA USO LABORATORIAL PARA ANALISE FISICA/QUIMICA.",
+    "denominacao": "5130140 1   5130140 1  CODIGO  5130140 1   OUTRAS PARTES DE MAQUINAS APARELHOS MECANICOS  COM FUNCAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "39269040",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_9010",
+        "valor": "Uso laboratorial para análise físico-química"
+      },
+      {
+        "atributo": "ATT_10036",
+        "valor": "999"
+      },
+      {
+        "atributo": "ATT_10810",
+        "valor": "Polipropileno"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "5130140-1"
+    ]
+  },
+  {
+    "seq": 13,
+    "descricao": "5130160, SENDO: PONTEIRAS, FABRICADAS A PARTIR DE POLIPROPILENO VIRGEM, DESTINADO EXCLUSIVAMENTE PARA USO LABORATORIAL PARA ANALISE FISICA/QUIMICA.",
+    "denominacao": "5130160   5130160  CODIGO  5130160   OUTRAS PARTES DE MAQUINAS E APARELHOS MECANICOS  COM FUNCAO PRO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "39269040",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_9010",
+        "valor": "Uso laboratorial para análise físico-química"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10036",
+        "valor": "999"
+      },
+      {
+        "atributo": "ATT_10810",
+        "valor": "Polipropileno virgem"
+      }
+    ],
+    "codigosInterno": [
+      "5130160"
+    ]
+  },
+  {
+    "seq": 14,
+    "descricao": "5130165-1, SENDO: PONTEIRAS, FABRICADAS A PARTIR DE POLIPROPILENO VIRGEM, DESTINADO EXCLUSIVAMENTE PARA USO LABORATORIAL PARA ANALISE FISICA/QUIMICA.",
+    "denominacao": "5130165 1   5130165 1  CODIGO  5130165 1   OUTRAS PARTES DE MAQUINAS APARELHOS MECANICOS  COM FUNCAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "39269040",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10036",
+        "valor": "999"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9010",
+        "valor": "Uso laboratorial para análise físico-química"
+      },
+      {
+        "atributo": "ATT_10810",
+        "valor": "Polipropileno"
+      }
+    ],
+    "codigosInterno": [
+      "5130165-1"
+    ]
+  },
+  {
+    "seq": 15,
+    "descricao": "5130190, SENDO: PONTEIRAS, FABRICADAS A PARTIR DE POLIPROPILENO VIRGEM, DESTINADO EXCLUSIVAMENTE PARA USO LABORATORIAL PARA ANALISE FISICA/QUIMICA.",
+    "denominacao": "5130190   OUTRAS PARTES DE MAQUINAS E APARELHOS MECANICOS COM FUNCAO PROPRIA  NAO ESPECIFICADOS NEM ",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "39269040",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10810",
+        "valor": "Polipropileno virgem"
+      },
+      {
+        "atributo": "ATT_9010",
+        "valor": "Uso laboratorial para análise físico-química"
+      },
+      {
+        "atributo": "ATT_10036",
+        "valor": "999"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "5130190"
+    ]
+  },
+  {
+    "seq": 16,
+    "descricao": "5183 4757 100   CODIGO  5183 4757 100   DESCRICAO  SEPTO INJETOR BTO 11MM 100UN 13 10 FINALIDADE  SEPTO DE BORRACHA UTILIZADO PARA VEDACAO DO SISTEMA INJETOR EM CROMATOGRAFO GASOSO  MARCA  AGILENT, JUNTA, GAXETA E SEMELHANTES DE BORRACHA VULCANIZADA NAO ENDURECIDA, NAO ALVEOLAR. COD. IMPORTADOR: 100UN. COD. FORNECEDOR: 100UN",
+    "denominacao": "5183 4757 100   CODIGO  5183 4757 100   DESCRICAO  SEPTO INJETOR BTO 11MM 100UN 13 10 FINALIDADE  SE",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "40169300",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_9504",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10810",
+        "valor": "Borracha"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "5183-4757-100 "
+    ]
+  },
+  {
+    "seq": 17,
+    "descricao": "564045, SENDO: CONEXAO PLASTICA EM POLIPROPILENO PARA CONEXAO EM EQUIPAMENTOS DE LABORATORIO.",
+    "denominacao": "564 045   564 045  CODIGO  564 045   OUTROS APARELHOS PARA FILTRAR E DEPURAR  LIQUIDOS SENDO  CONEXA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "39269040",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_9010",
+        "valor": "Uso laboratorial para análise físico-química"
+      },
+      {
+        "atributo": "ATT_10036",
+        "valor": "999"
+      },
+      {
+        "atributo": "ATT_10810",
+        "valor": "Polipropileno"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "564045"
+    ]
+  },
+  {
+    "seq": 18,
+    "descricao": "604001, SENDO: PIPETADOR, UTILIZADO EM ANALISES LABORATORIAIS, PARA DISPENSACAO DE LIQUIDOS.",
+    "denominacao": "604 001   CODIGO  604 001   DISTRIBUIDORES E DOSADORES DE SOLIDOS E LIQUIDOS SENDO   PIPETADOR DE BO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "84798912",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_9924",
+        "valor": "Corpo em borracha e esfera metálica interna"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Uniplas"
+      },
+      {
+        "atributo": "ATT_10909",
+        "valor": "99"
+      },
+      {
+        "atributo": "ATT_8645",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10804",
+        "valor": "Transferência de líquidos em laboratórios analíticos"
+      },
+      {
+        "atributo": "ATT_9101",
+        "valor": "Pipetador de borracha 3 vias"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "Pipetador de borracha 3 vias"
+      }
+    ],
+    "codigosInterno": [
+      "604.001"
+    ]
+  },
+  {
+    "seq": 19,
+    "descricao": "702009, SENDO: FRASCOS  DE POLIPROPILENO USADOS EM CROMATOGRAFIA, PARA ANALISES LABORATORIAIS.",
+    "denominacao": "702009   CODIGO 702009   VIALS  FRASCOS  DE POLIPROPILENO USADOS EM CROMATOGRAFIA COM FECHAMENTO DO ",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "39269040",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_9010",
+        "valor": "Uso laboratorial para análise físico-química"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10810",
+        "valor": "Polipropileno"
+      },
+      {
+        "atributo": "ATT_10036",
+        "valor": "999"
+      }
+    ],
+    "codigosInterno": [
+      "702009"
+    ]
+  },
+  {
+    "seq": 20,
+    "descricao": "70201HP, SENDO: FRASCO, DE VIDRO, COEFICIENTE DE DILATACAO 7,8 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "70201HP   CODIGO  70201HP   VIALS  FRASCOS  DE CROMATOGRAFIA COM FECHAMENTO DO TIPO PRESSAO  LACRE  ",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "70201HP"
+    ]
+  },
+  {
+    "seq": 21,
+    "descricao": "702503, SENDO: FRASCOS  DE POLIPROPILENO USADOS EM CROMATOGRAFIA, PARA ANALISES LABORATORIAIS.",
+    "denominacao": "702503   CODIGO  702503   SUPORTE PLASTICO PARA ACOMODACAO DE 36 VIALS  FRASCOS PARA CROMATOGRAFIA  ",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "39269040",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10810",
+        "valor": "Polipropileno"
+      },
+      {
+        "atributo": "ATT_10036",
+        "valor": "999"
+      },
+      {
+        "atributo": "ATT_9010",
+        "valor": "Uso laboratorial para análise físico-química"
+      }
+    ],
+    "codigosInterno": [
+      "702503"
+    ]
+  },
+  {
+    "seq": 22,
+    "descricao": "702826, SENDO: VIAL DE VIDRO, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "702826   702826  CODIGO  702826   ARTIGOS DE VIDRO PARA LABORATORIO  SENDO   VIAL  DE VIDRO C R N18 ",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "702826"
+    ]
+  },
+  {
+    "seq": 23,
+    "descricao": "718966, SENDO: CONJUNTO CONTENDO  1 SUPORTE EM INOX PARA PRE COLUNAS, 3 FERRULES PARA COLUNAS, PARTE RECONHECIVEL COMO DE USO EXCLUSIVO EM APARELHOS PARA ANALISES FISICAS OU QUIMICAS, UTILIZADA PARA ANALISES CROMATOGRAFICAS.",
+    "denominacao": "718966   CODIGO  718966   KIT DE SUPORTE DE PRE COLUNAS DE CROMATOGRAFIA  PARA ACOPLAMENTO EM COLUNA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "718966"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "718966"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "1"
+      }
+    ],
+    "codigosInterno": [
+      "718966"
+    ]
+  },
+  {
+    "seq": 24,
+    "descricao": "729207, SENDO: CONEXAO PLASTICA EM POLIPROPILENO UTILIZADO NAS PONTA DE SERINGA, PARA ANALISES LABORATORIAIS.",
+    "denominacao": "729207   CODIGO 729207   OUTROS APARELHOS PARA FILTRAR E DEPURAR LIQUIDOS SENDO  CONEXAO PLASTICA EM",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "39269040",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10810",
+        "valor": "Polipropileno"
+      },
+      {
+        "atributo": "ATT_10036",
+        "valor": "999"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9010",
+        "valor": "Uso laboratorial para análise físico-química"
+      }
+    ],
+    "codigosInterno": [
+      "729207"
+    ]
+  },
+  {
+    "seq": 25,
+    "descricao": "729208, SENDO: CONEXAO PLASTICA EM POLIPROPILENO UTILIZADO NAS PONTA DE SERINGA, PARA ANALISES LABORATORIAIS.",
+    "denominacao": "729208   OUTROS APARELHOS PARA FILTRAR OU DEPURAR LIQUIDOS  SENDO  CONEXAO PLASTICA EM POLIPROPILENO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "39269040",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_9010",
+        "valor": "Uso laboratorial para análise físico-química"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10810",
+        "valor": "Polipropileno"
+      },
+      {
+        "atributo": "ATT_10036",
+        "valor": "999"
+      }
+    ],
+    "codigosInterno": [
+      "729208"
+    ]
+  },
+  {
+    "seq": 26,
+    "descricao": "729212, SENDO: CONEXAO PLASTICA EM POLIPROPILENO UTILIZADO NAS PONTA DE SERINGA, PARA ANALISES LABORATORIAIS.",
+    "denominacao": "729212   CODIGO  729212   OUTROS APARELHOS PARA FILTRAR OU DEPURAR LIQUIDOS  SENDO  CONEXAO PLASTICA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "39269040",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10810",
+        "valor": "Polipropileno"
+      },
+      {
+        "atributo": "ATT_10036",
+        "valor": "999"
+      },
+      {
+        "atributo": "ATT_9010",
+        "valor": "Uso laboratorial para análise físico-química"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "729212"
+    ]
+  },
+  {
+    "seq": 27,
+    "descricao": "729213, SENDO: CONEXAO PLASTICA EM POLIPROPILENO UTILIZADO NAS PONTA DE SERINGA, PARA ANALISES LABORATORIAIS.",
+    "denominacao": "729213   729213  CODIGO  729213   OUTROS APARELHOS PARA FILTRAR OU DEPURAR  LIQUIDOS  SENDO  CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "39269040",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9010",
+        "valor": "Uso laboratorial para análise físico-química"
+      },
+      {
+        "atributo": "ATT_10810",
+        "valor": "Polipropileno"
+      },
+      {
+        "atributo": "ATT_10036",
+        "valor": "999"
+      }
+    ],
+    "codigosInterno": [
+      "729213"
+    ]
+  },
+  {
+    "seq": 28,
+    "descricao": "729218, SENDO: CONEXAO PLASTICA EM POLIPROPILENO PARA CONEXAO EM EQUIPAMENTOS DE LABORATORIO.",
+    "denominacao": "729218   729218  CODIGO  729218   OUTROS APARELHOS PARA FILTRAR OU DEPURAR  LIQUIDOS  SENDO  CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "39269040",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10810",
+        "valor": "Polipropileno"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10036",
+        "valor": "999"
+      },
+      {
+        "atributo": "ATT_9010",
+        "valor": "Uso laboratorial para análise físico-química"
+      }
+    ],
+    "codigosInterno": [
+      "729218"
+    ]
+  },
+  {
+    "seq": 29,
+    "descricao": "729219, SENDO: CONEXAO PLASTICA EM POLIPROPILENO PARA CONEXAO EM EQUIPAMENTOS DE LABORATORIO.",
+    "denominacao": "729219   729219  CODIGO 729219   OUTROS APARELHOS PARA FILTRAR E DEPURAR LIQUIDOS  SENDO  CONEXAO PL",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "39269040",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10036",
+        "valor": "999"
+      },
+      {
+        "atributo": "ATT_9010",
+        "valor": "Uso laboratorial para análise físico-química"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10810",
+        "valor": "Polipropileno"
+      }
+    ],
+    "codigosInterno": [
+      "729219"
+    ]
+  },
+  {
+    "seq": 30,
+    "descricao": "729226, SENDO: CONEXAO PLASTICA EM POLIPROPILENO PARA CONEXAO EM EQUIPAMENTOS DE LABORATORIO.",
+    "denominacao": "729226   OUTROS APARELHOS PARA FILTRAR OU DEPURAR LIQUIDOS  SENDO  CONEXAO PLASTICA EM POLIPROPILENO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "39269040",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10036",
+        "valor": "999"
+      },
+      {
+        "atributo": "ATT_10810",
+        "valor": "Polipropileno"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9010",
+        "valor": "Uso laboratorial para análise físico-química"
+      }
+    ],
+    "codigosInterno": [
+      "729226"
+    ]
+  },
+  {
+    "seq": 31,
+    "descricao": "730150N   CODIGO 730150N   MANIFOLD A VACUO CHROMABOND COMPLETO PARA 12 COLUNAS  COM  CABINE DE VIDRO COM TAMPA  AGULHAS REMOVIVEIS NO LADO INFERIOR DA TAMPA  VALVULO DE VACUO  CONTROLE DE VALVULAS  VAVULAS E TAMPAS E RACK  NOME COMERCIAL  CHROMABOND  MARCA  MACHEREY NAGEL   LOTE  101121, PARTE RECONHECIVEL COMO DE USO EXCLUSIVO EM APARELHOS PARA ANALISES FISICAS OU QUIMICAS. DESTAQUE: 999. COD. IMPORTADOR: 730150N. COD. FORNECEDOR: 730150N",
+    "denominacao": "730150N   CODIGO 730150N   MANIFOLD A VACUO CHROMABOND COMPLETO PARA 12 COLUNAS  COM  CABINE DE VIDR",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "730150N"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "730150N"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "1"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      }
+    ],
+    "codigosInterno": [
+      "730150N"
+    ]
+  },
+  {
+    "seq": 32,
+    "descricao": "8004-0204, SENDO: ANEL DE VEDACAO, SENDO: OBRA DE GRAFITA, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS OU QUIMICAS.",
+    "denominacao": "8004 0204   CODIGO  8004 0204   DESCRICAO  CROSSLAB VARIAN O RING LINER GRAFITE 5MM 10UN   FINALIDAD",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "68151900",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9298",
+        "valor": "Anel"
+      },
+      {
+        "atributo": "ATT_10810",
+        "valor": "Grafite"
+      }
+    ],
+    "codigosInterno": [
+      "8004-0204"
+    ]
+  },
+  {
+    "seq": 33,
+    "descricao": "814022, SENDO: TUBO, DE VIDRO, COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "814022   CODIGO 814022   TUBO DE VIDRO MILIMETRICO UTILIZADO PARA COLETA DE AMOSTRAS PEQUENAS PARA A",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "814022"
+    ]
+  },
+  {
+    "seq": 34,
+    "descricao": "ANILHA DE GRAFITE, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO DE COLUNAS EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "ANILHA DE GRAFITE",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "68151900",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_9298",
+        "valor": "Anilhas"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10810",
+        "valor": "Grafite"
+      }
+    ],
+    "codigosInterno": [
+      "500-2114"
+    ]
+  },
+  {
+    "seq": 35,
+    "descricao": "ANILHA DE GRAFITE, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO DE COLUNAS EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "ANILHA DE GRAFITE",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "68151900",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10810",
+        "valor": "Grafite"
+      },
+      {
+        "atributo": "ATT_9298",
+        "valor": "Anilhas"
+      }
+    ],
+    "codigosInterno": [
+      "500-2118"
+    ]
+  },
+  {
+    "seq": 36,
+    "descricao": "ANILHA DE GRAFITE, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO DE COLUNAS EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "ANILHA DE GRAFITE",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "68151900",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10810",
+        "valor": "Grafite"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9298",
+        "valor": "Anilhas"
+      }
+    ],
+    "codigosInterno": [
+      "5080-8773"
+    ]
+  },
+  {
+    "seq": 37,
+    "descricao": "ANILHA DE GRAFITE, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO DE COLUNAS EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "ANILHA DE GRAFITE",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "68151900",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10810",
+        "valor": "Grafite"
+      },
+      {
+        "atributo": "ATT_9298",
+        "valor": "Anilhas"
+      }
+    ],
+    "codigosInterno": [
+      "5080-8853"
+    ]
+  },
+  {
+    "seq": 38,
+    "descricao": "ANILHA DE GRAFITE, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO DE COLUNAS EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "ANILHA DE GRAFITE",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "68151900",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10810",
+        "valor": "Grafite"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9298",
+        "valor": "Anilhas"
+      }
+    ],
+    "codigosInterno": [
+      "5182-9749"
+    ]
+  },
+  {
+    "seq": 39,
+    "descricao": "ANILHA DE GRAFITE, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO DE COLUNAS EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "ANILHA DE GRAFITE",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "68151900",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10810",
+        "valor": "Grafite"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9298",
+        "valor": "Anilhas"
+      }
+    ],
+    "codigosInterno": [
+      "8010-0304"
+    ]
+  },
+  {
+    "seq": 40,
+    "descricao": "CAPILAR DE CONEXAO, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "CAPILAR DE CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_9241",
+        "valor": "5021-1817"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "5021-1817"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      }
+    ],
+    "codigosInterno": [
+      "5021-1817"
+    ]
+  },
+  {
+    "seq": 41,
+    "descricao": "CAPILAR DE CONEXAO, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "CAPILAR DE CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "5062-2462"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "5062-2462"
+      }
+    ],
+    "codigosInterno": [
+      "5062-2462"
+    ]
+  },
+  {
+    "seq": 42,
+    "descricao": "CAPILAR DE CONEXAO, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "CAPILAR DE CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "5065-9931"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "5065-9931"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      }
+    ],
+    "codigosInterno": [
+      "5065-9931"
+    ]
+  },
+  {
+    "seq": 43,
+    "descricao": "CAPILAR DE CONEXAO, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "CAPILAR DE CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8957",
+        "valor": "5065-9932"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "5065-9932"
+      }
+    ],
+    "codigosInterno": [
+      "5065-9932"
+    ]
+  },
+  {
+    "seq": 44,
+    "descricao": "CAPILAR DE CONEXAO, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "CAPILAR DE CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "5067-4300"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "5067-4300"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      }
+    ],
+    "codigosInterno": [
+      "5067-4300"
+    ]
+  },
+  {
+    "seq": 45,
+    "descricao": "CAPILAR DE CONEXAO, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "CAPILAR DE CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "5067-4605"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "5067-4605"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      }
+    ],
+    "codigosInterno": [
+      "5067-4605"
+    ]
+  },
+  {
+    "seq": 46,
+    "descricao": "CAPILAR DE CONEXAO, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "CAPILAR DE CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "5067-4656"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "5067-4656"
+      }
+    ],
+    "codigosInterno": [
+      "5067-4656"
+    ]
+  },
+  {
+    "seq": 47,
+    "descricao": "CAPILAR DE CONEXAO, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "CAPILAR DE CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "5067-4657"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "5067-4657"
+      }
+    ],
+    "codigosInterno": [
+      "5067-4657"
+    ]
+  },
+  {
+    "seq": 48,
+    "descricao": "CAPILAR DE CONEXAO, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "CAPILAR DE CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "5067-4658"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "5067-4658"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      }
+    ],
+    "codigosInterno": [
+      "5067-4658"
+    ]
+  },
+  {
+    "seq": 49,
+    "descricao": "CAPILAR DE CONEXAO, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "CAPILAR DE CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8957",
+        "valor": "5067-4659"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "5067-4659"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      }
+    ],
+    "codigosInterno": [
+      "5067-4659"
+    ]
+  },
+  {
+    "seq": 50,
+    "descricao": "CAPILAR DE CONEXAO, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "CAPILAR DE CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "5067-4686"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "5067-4686"
+      }
+    ],
+    "codigosInterno": [
+      "5067-4686"
+    ]
+  },
+  {
+    "seq": 51,
+    "descricao": "CAPILAR DE CONEXAO, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "CAPILAR DE CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8957",
+        "valor": "5067-4722"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "5067-4722"
+      }
+    ],
+    "codigosInterno": [
+      "5067-4722"
+    ]
+  },
+  {
+    "seq": 52,
+    "descricao": "CAPILAR DE CONEXAO, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "CAPILAR DE CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8957",
+        "valor": "5067-4723"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "5067-4723"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      }
+    ],
+    "codigosInterno": [
+      "5067-4723"
+    ]
+  },
+  {
+    "seq": 53,
+    "descricao": "CAPILAR DE CONEXAO, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "CAPILAR DE CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8957",
+        "valor": "5067-4745"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "5067-4745"
+      }
+    ],
+    "codigosInterno": [
+      "5067-4745"
+    ]
+  },
+  {
+    "seq": 54,
+    "descricao": "CAPILAR DE CONEXAO, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "CAPILAR DE CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "5067-5957"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "5067-5957"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "5067-5957"
+    ]
+  },
+  {
+    "seq": 55,
+    "descricao": "CAPILAR DE CONEXAO, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "CAPILAR DE CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "5067-6166"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "5067-6166"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      }
+    ],
+    "codigosInterno": [
+      "5067-6166"
+    ]
+  },
+  {
+    "seq": 56,
+    "descricao": "CAPILAR DE CONEXAO, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "CAPILAR DE CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "5500-1173"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "5500-1173"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "5500-1173"
+    ]
+  },
+  {
+    "seq": 57,
+    "descricao": "CAPILAR DE CONEXAO, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "CAPILAR DE CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "5500-1188"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "5500-1188"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      }
+    ],
+    "codigosInterno": [
+      "5500-1188"
+    ]
+  },
+  {
+    "seq": 58,
+    "descricao": "CAPILAR DE CONEXAO, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "CAPILAR DE CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_8957",
+        "valor": "5500-1246"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "5500-1246"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      }
+    ],
+    "codigosInterno": [
+      "5500-1246"
+    ]
+  },
+  {
+    "seq": 59,
+    "descricao": "CAPILAR DE CONEXAO, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "CAPILAR DE CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "5500-1249"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "5500-1249"
+      }
+    ],
+    "codigosInterno": [
+      "5500-1249"
+    ]
+  },
+  {
+    "seq": 60,
+    "descricao": "CAPILAR DE CONEXAO, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "CAPILAR DE CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10268",
+        "valor": "3"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "5500-1329"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "5500-1329"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "5500-1329"
+    ]
+  },
+  {
+    "seq": 61,
+    "descricao": "CAPILAR DE CONEXAO, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "CAPILAR DE CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10268",
+        "valor": "1"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "8002-0822"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "8002-0822"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      }
+    ],
+    "codigosInterno": [
+      "8002-0822"
+    ]
+  },
+  {
+    "seq": 62,
+    "descricao": "CAPILAR DE CONEXAO, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "CAPILAR DE CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_10268",
+        "valor": "1"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "8002-0824"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "8002-0824"
+      }
+    ],
+    "codigosInterno": [
+      "8002-0824"
+    ]
+  },
+  {
+    "seq": 63,
+    "descricao": "CAPILAR DE CONEXAO, PARA USO EXCLUSIVO EM EQUIPAMENTOS DE ANALISES FISICO-QUIMICAS, UTILIZADO PARA CONEXAO EM EQUIPAMENTOS DE CROMATOGRAFIA.",
+    "denominacao": "CAPILAR DE CONEXAO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "90279099",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10268",
+        "valor": "1"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_9241",
+        "valor": "810134400"
+      },
+      {
+        "atributo": "ATT_8976",
+        "valor": "Agilent"
+      },
+      {
+        "atributo": "ATT_10598",
+        "valor": "Cromatógrafo"
+      },
+      {
+        "atributo": "ATT_8957",
+        "valor": "810134400"
+      },
+      {
+        "atributo": "ATT_10278",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "810134400"
+    ]
+  },
+  {
+    "seq": 64,
+    "descricao": "101.012, SENDO: TUBO DE ENSAIO, DE VIDRO, COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO  101 012   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  TUBO DE ENSAIO SIMPLES SEM ORLA DIAMETRO ",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "101.012"
+    ]
+  },
+  {
+    "seq": 65,
+    "descricao": "102.002, SENDO: TUBO DE ENSAIO, DE VIDRO, COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO  102 002   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  TUBO DE ENSAIO T R DE BAQUELITE DIM 13X10",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "102.002"
+    ]
+  },
+  {
+    "seq": 66,
+    "descricao": "102.003, SENDO: TUBO DE ENSAIO, DE VIDRO, COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO  102 003   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  TUBO DE ENSAIO T R DE BAQUELITE DIM 16X10",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "102.003"
+    ]
+  },
+  {
+    "seq": 67,
+    "descricao": "102.004, SENDO: TUBO DE ENSAIO, DE VIDRO, COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO  102 004   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  TUBO DE ENSAIO T R DE BAQUELITE DIM 16X15",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "102.004"
+    ]
+  },
+  {
+    "seq": 68,
+    "descricao": "102.010, SENDO: TUBO DE ENSAIO, DE VIDRO, COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO  102 010   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  TUBO DE ENSAIO T R DE BAQUELITE DIM 20X20",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "102.010"
+    ]
+  },
+  {
+    "seq": 69,
+    "descricao": "102.012, SENDO: TUBO DE ENSAIO, DE VIDRO, COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO  102 012   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  TUBO DE ENSAIO T R DE BAQUELITE DIM 25X15",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "102.012"
+    ]
+  },
+  {
+    "seq": 70,
+    "descricao": "102.015, SENDO: TUBO DE ENSAIO, DE VIDRO, COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO  102 015   DE OUTRO VIDRO COM UM COEFICIENTE DE DILATACAO LINEAR NAO SUPERIOR A 5X10 6 POR KE",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "102.015"
+    ]
+  },
+  {
+    "seq": 71,
+    "descricao": "105.250, SENDO: DESSECADOR, DE OUTROS VIDROS, MARCA  UNIGLAS, COM COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KEVIN, UTILIZADO EM ANALISES LABORATORIAIS.",
+    "denominacao": "CODIGO  105 250   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  DESSECADOR COMPLETO COM TAMPA E LUVA  DIA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "105.250"
+    ]
+  },
+  {
+    "seq": 72,
+    "descricao": "107.1060, SENDO: TAMPA PARA DESSECADOR, DE OUTROS VIDROS, MARCA  UNIGLAS, COM COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KEVIN, UTILIZADO EM ANALISES LABORATORIAIS.",
+    "denominacao": "CODIGO  107 160   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  TAMPA PARA DESSECADOR COM LUVA DIAM 160MM",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "107.1060"
+    ]
+  },
+  {
+    "seq": 73,
+    "descricao": "107.200, SENDO: TAMPA PARA DESSECADOR, DE OUTROS VIDROS, MARCA  UNIGLAS, COM COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KEVIN, UTILIZADO EM ANALISES LABORATORIAIS.",
+    "denominacao": "CODIGO  107 200   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  TAMPA PARA DESSECADOR COM LUVA DIAMETRO D",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "107.200"
+    ]
+  },
+  {
+    "seq": 74,
+    "descricao": "129.006, SENDO: BASTAO, DE OUTROS VIDROS, MARCA UNIGLAS, COM COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KEVIN, UTILIZADO EM ANALISES LABORATORIAIS.",
+    "denominacao": "CODIGO  129 006   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  BASTAO DE VIDRO 300 COMP  X6 DIAM  MM  CO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "129.006"
+    ]
+  },
+  {
+    "seq": 75,
+    "descricao": "160.125, SENDO: FRASCO ERLENMEYER, VIDRO DE LABORATORIO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILACAO 3,3 *10^-6 POR KEVIN, UTILIZADO EM ANALISES LABORATORIAIS.",
+    "denominacao": "CODIGO  160 125   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  FRASCO ERLENMEYER BOCA ESTREITA  GRADUADO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "160.125"
+    ]
+  },
+  {
+    "seq": 76,
+    "descricao": "160.902, SENDO: FRASCO ERLENMEYER, VIDRO DE LABORATORIO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILACAO 3,3 *10^-6 POR KEVIN, UTILIZADO EM ANALISES LABORATORIAIS.",
+    "denominacao": "CODIGO  160 902   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  FRASCO ERLENMEYER BOCA ESTREITA  GRADUADO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "160.902"
+    ]
+  },
+  {
+    "seq": 77,
+    "descricao": "161.250, SENDO: FRASCO ERLENMEYER, VIDRO DE LABORATORIO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILACAO 3,3 *10^-6 POR KEVIN, UTILIZADO EM ANALISES LABORATORIAIS.",
+    "denominacao": "CODIGO  161 250   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  FRASCO ERLENMEYER BOCA LARGA  GRADUADO  C",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "161.250"
+    ]
+  },
+  {
+    "seq": 78,
+    "descricao": "163.250, SENDO: FRASCO ERLENMEYER, VIDRO DE LABORATORIO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILACAO 3,3 *10^-6 POR KEVIN, UTILIZADO EM ANALISES LABORATORIAIS.",
+    "denominacao": "CODIGO  163 250   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  FRASCO ERLENMEYER ROLHA DE VIDRO  GRADUAD",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "163.250"
+    ]
+  },
+  {
+    "seq": 79,
+    "descricao": "170.050, SENDO: FUNIL ANALITICO, DE VIDRO, COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO  170 050   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  FUNIL ANALITICO LISO HASTE  CURTA  DIAMET",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "170.050"
+    ]
+  },
+  {
+    "seq": 80,
+    "descricao": "170.100, SENDO: FUNIL ANALITICO, DE VIDRO, COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO  170 100   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  FUNIL ANALITICO LISO HASTE  CURTA  DIAMET",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "170.100"
+    ]
+  },
+  {
+    "seq": 81,
+    "descricao": "185.050, SENDO: PROVETA, DE VIDRO GRADUADO, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO  185 050   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  PROVETA GRADUADA BASE SEXTAVADA DE POLIET",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "185.050"
+    ]
+  },
+  {
+    "seq": 82,
+    "descricao": "185.100, SENDO: PROVETA, DE VIDRO GRADUADO, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO  185 100   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  PROVETA GRADUADA BASE SEXTAVADA DE POLIET",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "185.100"
+    ]
+  },
+  {
+    "seq": 83,
+    "descricao": "190.905, SENDO: COPO BEAKER, ARTIGO DE VIDRO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KEVIN, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "CODIGO  190 905  ARTIGO DE VIDRO PARA LABORATORIO  SENDO  COPO BECKER FB GRIFFIN  GRADUADO CAPACIDAD",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "190.905"
+    ]
+  },
+  {
+    "seq": 84,
+    "descricao": "5030115-1, SENDO: PONTEIRAS, FABRICADAS A PARTIR DE POLIPROPILENO VIRGEM, DESTINADO EXCLUSIVAMENTE PARA USO LABORATORIAL PARA ANALISE FISICA/QUIMICA.",
+    "denominacao": "CODIGO  5030115 1   OOUTRAS PARTES DE MAQUINAS APARELHOS MECANICOS COM FUNCAO PROPRIA  SENDO  PONTEI",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "39269040",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10036",
+        "valor": "999"
+      },
+      {
+        "atributo": "ATT_9010",
+        "valor": "Uso laboratorial para análise físico-química"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10810",
+        "valor": "Polipropileno virgem"
+      }
+    ],
+    "codigosInterno": [
+      "5030115-1"
+    ]
+  },
+  {
+    "seq": 85,
+    "descricao": "CODIGO  5062 3514   ARRUELAS  ANILHAS  DE PLASTICOS  SENDO  ANILHA VESPEL GRAFITE  CURTA  0 5MM C 10PC  ANILHA PARA CONEXAO DE COLUNA EM CROMATORAFO GASOSO  MARCA  AGILENT",
+    "denominacao": "CODIGO  5062 3514   ARRUELAS  ANILHAS  DE PLASTICOS  SENDO  ANILHA VESPEL GRAFITE  CURTA  0 5MM C 10",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "39269010",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "codigosInterno": [
+      "5062-3514"
+    ]
+  },
+  {
+    "seq": 86,
+    "descricao": "5130030-1, SENDO: PONTEIRAS, FABRICADAS A PARTIR DE POLIPROPILENO VIRGEM, DESTINADO EXCLUSIVAMENTE PARA USO LABORATORIAL PARA ANALISE FISICA/QUIMICA.",
+    "denominacao": "CODIGO  5130030 1   OUTRAS PARTE MAQUINAS E APARELHOS MECANICOS COM FUNCAO PROPRIA  NAO ESPECIFICADO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "39269040",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10036",
+        "valor": "999"
+      },
+      {
+        "atributo": "ATT_9010",
+        "valor": "Uso laboratorial para análise físico-química"
+      },
+      {
+        "atributo": "ATT_10810",
+        "valor": "Polipropileno virgem"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "5130030-1"
+    ]
+  },
+  {
+    "seq": 87,
+    "descricao": "101.004, SENDO: TUBO DE ENSAIO, DE VIDRO, COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO 101 004   ARTIGO DE VIDRO PARA LABORATORIO SENDO  TUBO DE ENSAIO SIMPLES SEM ORLA DIAMETRO 13",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "101.004"
+    ]
+  },
+  {
+    "seq": 88,
+    "descricao": "101.005, SENDO: TUBO DE ENSAIO, DE VIDRO, COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO 101 005   ARTIGO DE VIDRO PARA LABORATORIO SENDO  TUBO DE ENSAIO SIMPLES SEM ORLA DIAMETRO 14",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "101.005"
+    ]
+  },
+  {
+    "seq": 89,
+    "descricao": "101.006, SENDO: TUBO DE ENSAIO, DE VIDRO, COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO 101 006   ARTIGO DE VIDRO PARA LABORATORIO SENDO  TUBO DE ENSAIO SIMPLES SEM ORLA DIAMETRO 16",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "101.006"
+    ]
+  },
+  {
+    "seq": 90,
+    "descricao": "101.009, SENDO: TUBO DE ENSAIO, DE VIDRO, COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO 101 009   ARTIGO DE VIDRO PARA LABORATORIO SENDO  TUBO DE ENSAIO SIMPLES SEM ORLA DIAMETRO 18",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "101.009"
+    ]
+  },
+  {
+    "seq": 91,
+    "descricao": "102.006, SENDO: TUBO DE ENSAIO, DE VIDRO, COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO 102 006   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  TUBO DE ENSAIO T R DE BAQUELITE DIM 18X150",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "102.006"
+    ]
+  },
+  {
+    "seq": 92,
+    "descricao": "102.008, SENDO: TUBO DE ENSAIO, DE VIDRO, COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO 102 008   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  TUBO DE ENSAIO T R DE BAQUELITE DIM 18X180",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "102.008"
+    ]
+  },
+  {
+    "seq": 93,
+    "descricao": "102.009, SENDO: TUBO DE ENSAIO, DE VIDRO, COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO 102 009   ARTIGO DE VIDRO PARA LABORATORIO SENDO  TUBO DE ENSAIO T R DE BAQUELITE DIM 20X150M",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "102.009"
+    ]
+  },
+  {
+    "seq": 94,
+    "descricao": "102.013, SENDO: TUBO DE ENSAIO, DE VIDRO, COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KELVIN  E FAIXA DE TEMPERATURA 20 A 300C, UTILIZADO PARA ANALISES LABORATORIAIS FISICAS/QUIMICAS.",
+    "denominacao": "CODIGO 102 013   ARTIGO DE VIDRO PARA LABORATORIO SENDO  TUBO DE ENSAIO T R DE BAQUELITE DIM 25X200M",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "102.013"
+    ]
+  },
+  {
+    "seq": 95,
+    "descricao": "105.300, SENDO: DESSECADOR, DE OUTROS VIDROS, MARCA  UNIGLAS, COM COEFICIENTE DE DILATACAO 4,9 *10^-6 POR KEVIN, UTILIZADO EM ANALISES LABORATORIAIS.",
+    "denominacao": "CODIGO 105 300   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  DESSECADOR COMPLETO COM TAMPA E LUVA  DIAM",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "105.300"
+    ]
+  },
+  {
+    "seq": 96,
+    "descricao": "112.012, SENDO: CONDENSADOR, OUTROS ARTIGOS DE VIDRO,  MARCA UNIGLAS, COEFICIENTE DE DILATACAO 3,3 *10^-6 POR KEVIN, UTILIZADO PARA ANALISES LABORATORIAIS.",
+    "denominacao": "CODIGO 112 012   DE OUTRO VIDRO COM UM COEFICIENTE DE DILATACAO LINEAR NAO SUPERIOR A 5X10 6 POR KEL",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "112.012"
+    ]
+  },
+  {
+    "seq": 97,
+    "descricao": "160.905, SENDO: FRASCO ERLENMEYER, VIDRO DE LABORATORIO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILACAO 3,3 *10^-6 POR KEVIN, UTILIZADO EM ANALISES LABORATORIAIS.",
+    "denominacao": "CODIGO 160 905   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  FRASCO ERLENMEYER BOCA ESTREITA  GRADUADO ",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "160.905"
+    ]
+  },
+  {
+    "seq": 98,
+    "descricao": "162.250, SENDO: FRASCO ERLENMEYER, VIDRO DE LABORATORIO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILACAO 3,3 *10^-6 POR KEVIN, UTILIZADO EM ANALISES LABORATORIAIS.",
+    "denominacao": "CODIGO 162 250   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  FRASCO ERLENMEYER ROLHA DE POLIETILENO  GR",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "162.250"
+    ]
+  },
+  {
+    "seq": 99,
+    "descricao": "162.500, SENDO: FRASCO ERLENMEYER, VIDRO DE LABORATORIO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILACAO 3,3 *10^-6 POR KEVIN, UTILIZADO EM ANALISES LABORATORIAIS.",
+    "denominacao": "CODIGO 162 500   ARTIGO DE VIDRO PARA LABORATORIO SENDO  FRASCO ERLENMEYER ROLHA DE POLIETILENO  GRA",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      },
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      }
+    ],
+    "codigosInterno": [
+      "162.500"
+    ]
+  },
+  {
+    "seq": 100,
+    "descricao": "163.125, SENDO: FRASCO ERLENMEYER, VIDRO DE LABORATORIO, GRADUADO, MARCA UNIGLAS, COEFICIENTE DE DILACAO 3,3 *10^-6 POR KEVIN, UTILIZADO EM ANALISES LABORATORIAIS.",
+    "denominacao": "CODIGO 163 125   ARTIGO DE VIDRO PARA LABORATORIO  SENDO  FRASCO ERLENMEYER ROLHA DE VIDRO  GRADUADO",
+    "cpfCnpjRaiz": "01530501",
+    "situacao": "ATIVADO",
+    "modalidade": "IMPORTACAO",
+    "ncm": "70172000",
+    "versao": "0",
+    "dataReferencia": "2025-05-06",
+    "atributos": [
+      {
+        "atributo": "ATT_10691",
+        "valor": "false"
+      },
+      {
+        "atributo": "ATT_10786",
+        "valor": "Análises laboratoriais físico-químicas"
+      }
+    ],
+    "codigosInterno": [
+      "163.125"
+    ]
+  }
+]

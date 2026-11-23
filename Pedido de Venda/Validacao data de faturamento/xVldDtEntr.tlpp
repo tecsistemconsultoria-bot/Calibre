@@ -1,0 +1,223 @@
+#INCLUDE "totvs.ch"
+#Include "topconn.ch"
+
+namespace custom.fat.xVldDtEntr
+#Define ENTER chr(10) + chr(13)
+
+User Function xVldDtEntr()
+
+    Local nPosEnt    := GDFieldPos("C6_ENTREG")
+	Local nPosDtFat  := GDFieldPos("C6_CRVENT")
+    Local nPosQtd    := GDFieldPos("C6_QTDVEN")
+    Local nPosItem   := GDFieldPos("C6_ITEM")
+
+	Local nPosProd   := GDFieldPos("C6_PRODUTO")
+
+    Local cTipoFrete := M->C5_TPFRETE
+	Local dDataEnt   := Date()
+    Local dDataFat   := CtoD("")
+	Local nDiaSemana := 0
+    Local nDiasPar := GetMv("XX_DTFAT", .F., 2) 
+    Local nTransPrazo:= 0
+    Local dDataCalc  := CtoD("")    
+    Local dDataAtual := dDatabase
+    Local lAlterou   := .F.
+    Local cMsgLog    := ""
+    Local nLinha     := 0
+	Local nPrzopadr  := fGetPrazoPadr(M->C5_TRANSP)
+	//Local nPrzopadr  := 10
+	Local lRet       := .T.
+
+    // Busca Prazo Transportadora 
+	If cTipoFrete == "C"
+		nTransPrazo := fGetPrazoTransp(AllTrim(M->C5_ZINFFRE)) // passa ZZK key (código|item) quando existir
+    EndIf
+
+    For nLinha := 1 To Len(aCols)  
+        If !GDDeleted(nLinha)   
+            If aCols[nLinha][nPosQtd] > 0
+				If !Empty(aCols[nLinha][nPosEnt])
+					dDataEnt := aCols[nLinha][nPosEnt]
+				EndIf
+                
+				If !Empty(aCols[nLinha][nPosDtFat])
+					dDataFat := aCols[nLinha][nPosDtFat]
+				Else
+					dDataFat := dDatabase
+				EndIF
+
+				If !Empty(nTransPrazo)
+					dDataCalc := dDataAtual + (nDiasPar + nTransPrazo)
+				Else
+					dDataCalc := dDataAtual + (nDiasPar + nPrzopadr)
+				EndIf
+
+				// Verifica o tipo de frete é CIF se a quantidade entregue é menor que a quantidade vendida e se o status de bloquei do para faturamento é diferente de 'R' (Resíduo)
+
+					DbSelectArea("SC6")
+					SC6->(DbSetOrder(1)) // C6_FILIAL+C6_NUM+C6_ITEM+C6_PRODUTO
+					
+					SC6->(DbSeek(xFilial('SC6')+M->C5_NUM+aCols[nLinha][nPosItem]+aCols[nLinha][nPosProd]))
+
+                If cTipoFrete == "C" .AND. (SC6->C6_QTDENT < SC6->C6_QTDVEN) .AND. SC6->C6_BLQ <> 'R' 
+
+					//CIF
+					// A validação verifica se a data de Entrega é maior que a data atual + dias do parametro + dias de prazo da transportadora.
+
+					If dDataEnt >= dDataCalc
+
+						If !Empty(nTransPrazo)
+							//caso a transportadora tenha dias de prazo, a Data de faturamento é igual data de entrega - dias do parametro - dias de prazo da transportadora.
+							dDataCalc:= dDataEnt - (nDiasPar + nTransPrazo)
+							nDiaSemana := DOW(dDataCalc)
+
+							If nDiaSemana == 1
+								dDataCalc := DataValida(dDataEnt - (nDiasPar + nTransPrazo), .T.)
+							ElseIf nDiaSemana == 7
+								dDataCalc := DataValida(dDataEnt - (nDiasPar + nTransPrazo), .F.)
+							EndIf
+
+							If dDataFat < dDataCalc .AND. dDataFat>= dDataAtual
+								FWAlertWarning("Para que a Data de Faturamento seja no dia "+DtoC(dDataFat)+" é necessário que a data de entrega seja adiantada para no mínimo dia" + DtoC(dDataFat + (nDiasPar + nTransPrazo)))
+                    		EndIf
+
+							If dDataFat > dDataCalc
+								FWAlertWarning("Para que a Data de Faturamento seja no dia "+DtoC(dDataFat)+" é necessário que a data de entrega seja adiada no mínimo para o dia " + DtoC(dDataFat + (nDiasPar + nTransPrazo)))
+							EndIf
+
+							aCols[nLinha][nPosDtFat] := dDataCalc
+							cMsgLog += "Data de Faturamento do Item " + AllTrim(aCols[nLinha][nPosItem]) + ": Ajustada para " + DtoC(dDataCalc) + ENTER
+							lAlterou := .T.
+						Else
+							//caso a transportadora não tenha dias de prazo cadastrado o prazo padrão de entraga será atribuido, Data de faturamento éy igual data de entrega - dias do parametro - dias de prazo padrão.
+							dDataCalc:= dDataEnt - (nDiasPar + nPrzopadr)
+							nDiaSemana := DOW(dDataCalc)
+							
+							If nDiaSemana == 1
+								dDataCalc := DataValida(dDataEnt - (nDiasPar + nPrzopadr), .T.)
+							ElseIf nDiaSemana == 7
+								dDataCalc := DataValida(dDataEnt - (nDiasPar + nPrzopadr), .F.)
+							EndIf
+
+							If dDataFat < dDataCalc .AND. dDataFat>= dDataAtual
+								FWAlertWarning("Para que a Data de Faturamento seja no dia "+DtoC(dDataFat)+" é necessário que a data de entrega seja adiantada para no mínimo dia " + DtoC(dDataFat + (nDiasPar + nPrzopadr)))
+                    		EndIf
+
+							If dDataFat > dDataCalc
+								FWAlertWarning("Para que a Data de Faturamento seja no dia "+DtoC(dDataFat)+" é necessário que a data de entrega seja adiada no mínimo para o dia " + DtoC(dDataFat + (nDiasPar + nPrzopadr)))
+							EndIf
+
+							aCols[nLinha][nPosDtFat] := dDataCalc
+							cMsgLog += "Data de Faturamento do Item " + AllTrim(aCols[nLinha][nPosItem]) + ": Ajustada para " + DtoC(dDataCalc) + ENTER
+							lAlterou := .T.
+						EndIf
+
+					Else
+						//Se a data de Entrega for menor que a data atual + dias do parametro + dias de prazo da transportadora
+
+						FWAlertWarning("Data de entrega indisponível por favor Selecione uma data a Partir de  " + DtoC(dDataCalc))
+						lRet := .F.
+						Return .F.
+					EndIf
+
+					/*Else
+						//FOB
+						//valida se a data de Entrega é maior que a data atual + dias do parametro + dias de prazo da transportadora.
+						If dDataEnt > dDataCalc
+
+							//caso a transportadora não tenha dias de prazo cadastrado o prazo padrão de entraga será atribuido, Data de faturamento é igual data de entrega - dias do parametro - dias de prazo padrão.
+							dDataCalc:= dDataEnt - (nDiasPar + nPrzopadr)
+							nDiaSemana := DOW(dDataCalc)
+
+							If nDiaSemana == 1
+								dDataCalc := DataValida(dDataEnt - (nDiasPar + nPrzopadr), .T.)
+							ElseIf nDiaSemana == 7
+								dDataCalc := DataValida(dDataEnt - (nDiasPar + nPrzopadr), .F.)
+							EndIf
+
+							aCols[nLinha][nPosDtFat] := dDataCalc
+							cMsgLog += "Item " + AllTrim(aCols[nLinha][nPosItem]) + ": Data FOB inválida. Ajustada p/ " + DtoC(dDataCalc) + ENTER
+							lAlterou := .T.
+
+						Else
+							//Se a data de Entrega for menor que a data atual + dias do parametro + dias de prazo da transportadora
+
+							FWAlertWarning("Data entrega FOB indisponível por favor Selecione uma data a Partir de  " + DtoC(dDataCalc))
+							lRet := .F.
+							Return .F.
+						EndIf*/
+				EndIf    	
+            EndIf
+        EndIf
+    Next nLinha
+
+    If lAlterou .AND. lRet
+        fExibeMensagem(cMsgLog, cTipoFrete == "C")
+    EndIf
+
+Return(lRet)
+
+Static Function fGetPrazoTransp(cZzkKey)
+	Local nPrazo := 0
+	Local cQuery := ""
+	Local cAlias := GetNextAlias()
+
+	// se não houver chave ZZK, retorna 0
+	If Empty(AllTrim(cZzkKey))
+		Return nPrazo
+	EndIf
+
+	cQuery := "SELECT ZZK_LEAD FROM " + RetSQLName("ZZK") + " ZZK "
+	cQuery += " WHERE ZZK_CODIGO + '|' + ZZK_ITEM = '" + AllTrim(cZzkKey) + "'" 
+	cQuery += " AND ZZK.D_E_L_E_T_ = ' ' "
+	
+	cQuery := ChangeQuery(cQuery)
+	
+	DbUseArea(.T., "TOPCONN", TcGenQry(,,cQuery), cAlias, .T., .T.)
+
+	If !(cAlias)->(Eof())
+		nPrazo := (cAlias)->ZZK_LEAD
+	EndIf
+
+	(cAlias)->(DbCloseArea())
+
+Return nPrazo
+
+
+Static Function fGetPrazoPadr(cTransp)
+	Local aArea   := GetArea()
+	Local nPrazo  := 0
+	
+	DbSelectArea("SA4")
+	SA4->(DbSetOrder(1)) // A4_COD
+	
+	SA4->(DbSeek(xFilial('SA4') + cTransp))
+
+	nPrazo := SA4->A4_XLEAD
+
+	RestArea(aArea)
+Return nPrazo
+
+
+Static Function fExibeMensagem(cLog, lIsCIF)
+	Local cTexto := ""
+	Local ctitulo := ""
+	
+	ctitulo := "ATENÇÃO: AJUSTE AUTOMÁTICO DE DATAS DE ENTREGA" + ENTER + ENTER
+	
+	cTexto := cTitulo + ENTER
+	cTexto += Replicate("-", 60) + ENTER
+	If lIsCIF
+		cTexto += "Tipo de Frete: CIF (Transportadora responsável)" + ENTER
+	 //Else
+	 //	cTexto += "Tipo de Frete: FOB (Cliente responsável)" + ENTER
+	EndIf
+	cTexto += "Itens ajustados:" + ENTER + ENTER
+	cTexto += cLog
+	cTexto += Replicate("-", 60) + ENTER
+	cTexto += "As datas foram sobrepostas automaticamente para" + ENTER
+	cTexto += "atender os prazos mínimos de processamento." + ENTER
+	
+	MsgAlert(cTexto, "Validação de Datas de Entrega")
+
+Return 

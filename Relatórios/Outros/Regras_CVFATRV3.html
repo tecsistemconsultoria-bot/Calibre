@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Regras de Geracao - CVFATRV3</title>
+  <style>
+    :root {
+      --bg: #f5f7fb;
+      --card: #ffffff;
+      --text: #1f2937;
+      --muted: #6b7280;
+      --primary: #0f766e;
+      --border: #e5e7eb;
+      --warn: #92400e;
+      --warn-bg: #fffbeb;
+      --ok: #065f46;
+      --ok-bg: #ecfdf5;
+    }
+
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", Arial, sans-serif;
+      color: var(--text);
+      background: linear-gradient(180deg, #eef2ff 0%, var(--bg) 180px);
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 24px auto 48px;
+      padding: 0 16px;
+    }
+
+    .hero {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 24px;
+      box-shadow: 0 8px 24px rgba(15, 23, 42, 0.05);
+    }
+
+    h1 {
+      margin: 0 0 8px;
+      font-size: 30px;
+      color: #0f172a;
+    }
+
+    h2 {
+      margin: 0 0 10px;
+      font-size: 22px;
+      color: #111827;
+    }
+
+    h3 {
+      margin: 18px 0 8px;
+      font-size: 18px;
+      color: var(--primary);
+    }
+
+    p, li {
+      line-height: 1.55;
+      font-size: 15px;
+    }
+
+    .muted { color: var(--muted); }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 14px;
+      margin-top: 16px;
+    }
+
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 16px;
+      box-shadow: 0 4px 12px rgba(15, 23, 42, 0.04);
+    }
+
+    .badge {
+      display: inline-block;
+      font-size: 12px;
+      color: var(--primary);
+      background: #ecfeff;
+      border: 1px solid #a5f3fc;
+      border-radius: 999px;
+      padding: 4px 10px;
+      margin-bottom: 8px;
+    }
+
+    .note {
+      border-left: 4px solid #0891b2;
+      background: #f0f9ff;
+      padding: 12px 14px;
+      border-radius: 8px;
+      margin: 12px 0 0;
+      font-size: 14px;
+    }
+
+    .ok {
+      border-left: 4px solid #10b981;
+      background: var(--ok-bg);
+      color: var(--ok);
+      padding: 12px 14px;
+      border-radius: 8px;
+      margin-top: 10px;
+      font-size: 14px;
+    }
+
+    .warn {
+      border-left: 4px solid #f59e0b;
+      background: var(--warn-bg);
+      color: var(--warn);
+      padding: 12px 14px;
+      border-radius: 8px;
+      margin-top: 10px;
+      font-size: 14px;
+    }
+
+    .section {
+      margin-top: 16px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 18px;
+    }
+
+    .table-wrap {
+      overflow-x: auto;
+      margin-top: 12px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 860px;
+      font-size: 14px;
+    }
+
+    th, td {
+      border: 1px solid var(--border);
+      padding: 10px;
+      vertical-align: top;
+      text-align: left;
+    }
+
+    th {
+      background: #f8fafc;
+      color: #111827;
+      font-weight: 600;
+    }
+
+    code {
+      background: #f3f4f6;
+      border: 1px solid #e5e7eb;
+      border-radius: 6px;
+      padding: 1px 6px;
+      font-size: 13px;
+    }
+
+    .footer {
+      margin-top: 14px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="hero">
+      <h1>CVFATRV3 - Regras de Geracao da Planilha</h1>
+      <p class="muted">
+        Documento de apoio gerencial para entendimento das regras de preenchimento das 4 abas
+        do relatorio, com foco em motivos de nao exibicao de dados.
+      </p>
+
+      <div class="note">
+        <strong>Filtro de data padrao:</strong> todas as consultas do relatorio usam mes corrente no SQL Server:
+        <code>LIKE FORMAT(GETDATE(), 'yyyyMM') + '%'</code>.
+      </div>
+
+      <div class="ok">
+        <strong>Fluxo atual de envio:</strong> primeiro envia por vendedor (SA3) e, em seguida,
+        executa um segundo ciclo para e-mails da SX5 tabela XW, sem filtro de vendedor (relatorio geral).
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Visao geral do processo</h2>
+      <div class="grid">
+        <div class="card">
+          <span class="badge">Ciclo 1</span>
+          <h3>Envio por vendedor</h3>
+          <ul>
+            <li>Busca destinatarios na <code>SA3</code> com e-mail preenchido.</li>
+            <li>Gera planilha por vendedor aplicando filtro de vendedor nas queries.</li>
+            <li>Envia um e-mail por vendedor encontrado.</li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <span class="badge">Ciclo 2</span>
+          <h3>Envio geral (SX5 / XW)</h3>
+          <ul>
+            <li>Busca e-mails na <code>SX5</code> com <code>X5_TABELA = 'XW'</code>.</li>
+            <li>Reexecuta o relatorio sem filtro de vendedor.</li>
+            <li>Envia planilha geral para cada e-mail da XW.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Regras por aba</h2>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Aba</th>
+              <th>Base / Joins principais</th>
+              <th>Filtros principais</th>
+              <th>Quando pode vir em branco</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Orcamento_Mes</strong></td>
+              <td>
+                <code>SCJ</code>, <code>SCK</code>, <code>SC6</code>, <code>SC5</code>, <code>SD2</code>, <code>SF2</code>, <code>SA1</code>, <code>SB1</code>
+              </td>
+              <td>
+                <ul>
+                  <li><code>CJ_EMISSAO</code> no mes corrente</li>
+                  <li><code>SCK.D_E_L_E_T_ = ' '</code> e <code>CK_NUM &lt;&gt; ' '</code></li>
+                  <li>No ciclo de vendedor: filtra por vendedor interno/externo/gerencia</li>
+                </ul>
+              </td>
+              <td>
+                <ul>
+                  <li>Sem orcamentos no mes</li>
+                  <li>Sem vinculo valido entre SCJ/SCK/SC6</li>
+                  <li>No ciclo por vendedor: vendedor nao encaixa nos campos de filtro</li>
+                </ul>
+              </td>
+            </tr>
+
+            <tr>
+              <td><strong>Pedidos_Mes</strong></td>
+              <td>
+                <code>SC5</code> + <code>SC6</code> (efetivamente obrigatorio), com joins de apoio em
+                <code>SCK</code>, <code>SCJ</code>, <code>SD2</code>, <code>SF2</code>, <code>SA1</code>, <code>SB1</code>, <code>SA4</code>
+              </td>
+              <td>
+                <ul>
+                  <li><code>C5_EMISSAO</code> no mes corrente</li>
+                  <li><code>SC5.D_E_L_E_T_ = ' '</code> e vinculo com item em <code>SC6</code></li>
+                  <li>No ciclo de vendedor: filtra em <code>C5_VEND1 / C5_VEND2 / C5_VEND4</code></li>
+                </ul>
+              </td>
+              <td>
+                <ul>
+                  <li>Pedido sem item em SC6</li>
+                  <li>Pedido fora do mes corrente</li>
+                  <li>No ciclo por vendedor: vendedor nao esta em VEND1/VEND2/VEND4</li>
+                </ul>
+              </td>
+            </tr>
+
+            <tr>
+              <td><strong>Notas_Mes</strong></td>
+              <td>
+                Montada por <strong>UNION ALL</strong>:<br />
+                1) faturamento: <code>SF2 + SD2</code> + joins auxiliares<br />
+                2) devolucao: <code>SF1 + SD1</code> + joins auxiliares
+              </td>
+              <td>
+                <ul>
+                  <li>Data no mes corrente (<code>F2_EMISSAO</code> / <code>F1_DTDIGIT</code>)</li>
+                  <li>Regras fiscais (<code>F4_DUPLIC</code>, CFOPs e exclusoes)</li>
+                  <li>No ciclo de vendedor: filtros por vendedor em pedido/cliente</li>
+                </ul>
+              </td>
+              <td>
+                <ul>
+                  <li>Sem nota/devolucao no mes</li>
+                  <li>Nota fora das regras fiscais da consulta</li>
+                  <li>No ciclo por vendedor: nao atende filtros de vendedor</li>
+                </ul>
+              </td>
+            </tr>
+
+            <tr>
+              <td><strong>Carteira</strong></td>
+              <td>
+                Base em <code>SC6 + SC5</code>, mas com <strong>INNER JOIN obrigatorio</strong> em
+                <code>SD2</code>, <code>SF2</code>, <code>SF4</code> (com <code>F4_ESTOQUE = 'S'</code>) e <code>SE4</code>.
+              </td>
+              <td>
+                <ul>
+                  <li><code>C5_EMISSAO</code> no mes corrente</li>
+                  <li>Filial e exclusao logica das tabelas</li>
+                  <li>No ciclo de vendedor: filtra em <code>C5_VEND1 / C5_VEND2 / C5_VEND3</code></li>
+                </ul>
+              </td>
+              <td>
+                <ul>
+                  <li>Sem correspondencia em SD2</li>
+                  <li>Sem correspondencia em SF2</li>
+                  <li>TES sem SF4 com <code>F4_ESTOQUE = 'S'</code></li>
+                  <li>Condicao de pagamento sem SE4</li>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Ponto de atencao de negocio</h2>
+      <div class="warn">
+        A aba <strong>Carteira</strong> esta com regra tecnica restritiva (depende de SD2/SF2/SF4/SE4).
+        Por isso, em varios cenarios, ela pode ficar vazia mesmo com pedidos existentes no mes.
+      </div>
+      <p>
+        Se a necessidade for carteira "aberta pura", deve ser criada uma variante sem dependencia
+        obrigatoria de faturamento/nota.
+      </p>
+    </div>
+
+    <div class="footer">
+      Documento gerado para apoio de gestao e entendimento funcional da rotina CVFATRV3.
+    </div>
+  </div>
+</body>
+</html>

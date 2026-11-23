@@ -1,0 +1,70 @@
+﻿Nome;Tipo;TipoExibição;Prioridade
+Cor;Seleção;Combo;1
+Tamanho;Seleção;Combo;1
+Voltagem;Seleção;Combo;1
+Tipo;Seleção;Combo;1
+Roda;Seleção;Combo;1
+Quantidade;Seleção;Combo;1
+Esférico;Seleção;Combo;1
+Part Type;Seleção;Combo;1
+Gênero;Seleção;Combo;1
+Material;Seleção;Combo;1
+Tratamento;Seleção;Combo;1
+Tamanho de Partícula;Seleção;Combo;1
+Granulometria;Seleção;Combo;1
+Estado Físico;Seleção;Combo;1
+Condição de Armazenamento;Seleção;Combo;1
+Formato;Seleção;Combo;1
+USP;Seleção;Combo;1
+Suporte;Seleção;Combo;1
+Massa;Seleção;Combo;1
+Volume;Seleção;Combo;1
+Porosidade;Seleção;Combo;1
+Derivatização;Seleção;Combo;1
+Parâmetro;Seleção;Combo;1
+Indicador;Seleção;Combo;1
+Comprimento;Seleção;Combo;1
+Diâmetro;Seleção;Combo;1
+Diâmetro nominal;Seleção;Combo;1
+Faixa analítica;Seleção;Combo;1
+Vibrio Fisheri;Seleção;Combo;1
+Medida;Seleção;Combo;1
+Base adsorvente;Seleção;Combo;1
+Hidrofilicidade;Seleção;Combo;1
+Furo central;Seleção;Combo;1
+Caminho óptico;Seleção;Combo;1
+ABNT NBR 15411-3;Seleção;Combo;1
+Espessura;Seleção;Combo;1
+Espessura do filme;Seleção;Combo;1
+Partícula;Seleção;Combo;1
+Combinação;Seleção;Combo;1
+Comp. onda aprox.;Seleção;Combo;1
+Gaiola;Seleção;Combo;1
+Corpo;Seleção;Combo;1
+Polaridade;Seleção;Combo;1
+Técnica;Seleção;Combo;1
+Volume de amostra;Seleção;Combo;1
+Pressão máx.;Seleção;Combo;1
+Altura;Seleção;Combo;1
+Cor do septo;Seleção;Combo;1
+Método;Seleção;Combo;1
+Temp. máx. rampa;Seleção;Combo;1
+Faixa de pH;Seleção;Combo;1
+Entrada;Seleção;Combo;1
+Método Hach;Seleção;Combo;1
+Temp. máx. isotérmica;Seleção;Combo;1
+Saída;Seleção;Combo;1
+Temperatura máx.;Seleção;Combo;1
+Silanizado;Seleção;Combo;1
+Dureza do septo;Seleção;Combo;1
+Cor superior;Seleção;Combo;1
+Material da fase;Seleção;Combo;1
+Tamanho dos poros;Seleção;Combo;1
+Septo;Seleção;Combo;1
+Tipo de coluna GC;Seleção;Combo;1
+Teor de Carbono;Seleção;Combo;1
+Cor inferior;Seleção;Combo;1
+Espessura do septo;Seleção;Combo;1
+Nome comercial da fase;Seleção;Combo;1
+Fase;Seleção;Combo;1
+Composição;Seleção;Combo;1
