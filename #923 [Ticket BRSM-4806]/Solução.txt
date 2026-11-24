@@ -1,3 +1,0 @@
-Usuário tentou errou ao preparar o documento de saida , gerou uma SF2 Nota fiscal e um registro no conta a pagar SE2 
-
-ele mudou o codigo de pagamento usando o alterar pedido de venda  sem estorno, foi descobreto usando as datas de vencimento como ponto de comparação
